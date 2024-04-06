@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chicago Neighborhood Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map {
+            width: 800px;
+            height: 600px;
+        }
+    </style>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script>
+        var map = L.map('map').setView([41.8781, -87.6298], 10);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19
+        }).addTo(map);
+
+        // Add GeoJSON data for neighborhoods
+        var geojsonLayer = new L.GeoJSON.AJAX("/static/chicago_neighborhoods.geojson");
+        geojsonLayer.addTo(map);
+
+        // Handle click event on map
+        map.on('click', function(e) {
+            var popup = prompt("Enter tag for this neighborhood:");
+            if (popup !== null && popup.trim() !== "") {
+                // Send tag data to server
+                var neighborhoodName = "Example Neighborhood"; // Replace with actual neighborhood name
+                $.post('/tag_neighborhood', { neighborhood: neighborhoodName, tag: popup }, function(data) {
+                    if (data.success) {
+                        alert('Neighborhood tagged successfully!');
+                        // Add the tag to the map
+                        var tagMarker = L.marker(e.latlng).addTo(map);
+                        tagMarker.bindPopup(popup).openPopup();
+                    }
+                });
+            }
+        });
+
+        // Handle upvote click
+        $('#upvoteButton').click(function() {
+            var neighborhood = $('#voteNeighborhoodSelect').val();
+            $.post('/vote_neighborhood', { neighborhood: neighborhood, vote: 'upvote' }, function(data) {
+                if (data.success) {
+                    // Increase the font size of the tag
+                    var tag = $('.tag[data-neighborhood="' + neighborhood + '"]');
+                    var currentSize = parseInt(tag.css('font-size'));
+                    tag.css('font-size', currentSize + 1 + 'px');
+                    alert('Upvoted successfully!');
+                }
+            });
+        });
+
+        // Handle downvote click
+        $('#downvoteButton').click(function() {
+            var neighborhood = $('#voteNeighborhoodSelect').val();
+            $.post('/vote_neighborhood', { neighborhood: neighborhood, vote: 'downvote' }, function(data) {
+                if (data.success) {
+                    // Decrease the font size of the tag
+                    var tag = $('.tag[data-neighborhood="' + neighborhood + '"]');
+                    var currentSize = parseInt(tag.css('font-size'));
+                    tag.css('font-size', currentSize - 1 + 'px');
+                    alert('Downvoted successfully!');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
+
+           
