@@ -1,0 +1,80 @@
+.tag-list {
+    max-height: 200px; /* Adjust based on your preference */
+    overflow-y: auto; /* Allows scrolling within the tag list if it exceeds the max height */
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    min-height: 30px; 
+}
+
+.tag-span {
+    flex-grow: 1;
+    margin-right: 10px; 
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+}
+
+.tag-button {
+    flex-shrink: 0; 
+}
+.popup-container {
+    max-width: 300px; 
+    background-color: aquamarine;
+}
+
+.tag-list {
+    width: 100%;
+    overflow-wrap: break-word; 
+}
+
+.item-container {
+    padding: 4px 0; 
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center; 
+    padding: 15px; 
+}
+
+
+
+.leaflet-popup-content-wrapper {
+    background: linear-gradient(to bottom right, #89D4CF, #734AE8) !important; 
+    color: #fff !important; 
+    border-radius: 12px !important; 
+    padding: 1px !important; 
+}
+
+
+.leaflet-popup-tip-container {
+    width: 20px !important;
+    height: 10px !important;
+    margin-left: -10px !important;
+    margin-top: -10px !important;
+    overflow: hidden !important; 
+}
+
+
+.leaflet-popup-tip {
+    display: none !important;
+}
+
+#info{
+    background: linear-gradient(to bottom right, #89D4CF, #734AE8) !important; 
+    color: white;
+}
+
+#applyButton{
+    background: linear-gradient(to bottom right, #89D4CF, #734AE8) !important; 
+    color: white;
+    border:none;
+    width:100px;
+    height: 30px;
+    border-radius: 40%;
+}
