@@ -1,0 +1,1613 @@
+movieID,genre,tagsWithID,tagsWithName
+1,"['Adventure', 'Animation', 'Children', 'Comedy', 'Fantasy']","[896, 900, 1925, 10376, 1290, 13, 528, 6675, 15123, 7705, 25, 672, 5289, 6323, 10420, 819, 10422, 55, 4924, 60, 15170, 15045, 326, 2119, 459, 11344, 465, 11477, 605, 14562, 362, 752, 4339, 501, 4342, 2293, 382]","['dinner', 'animation', 'want to see again', 'disney animated feature']"
+5,['Comedy'],"[2724, 1646, 752, 4946, 4953, 125]",['sequel']
+10,"['Action', 'Adventure', 'Thriller']","[161, 485, 74, 459, 1515, 110, 6800, 657, 977, 5843, 9015, 9816, 634, 125, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+11,"['Comedy', 'Drama', 'Romance']","[6401, 587, 651, 780, 689, 892, 10494]","['seen', 'seen more than once']"
+12,"['Comedy', 'Horror']","[944, 42, 1452, 62]","['gothic', 'vampire', 'mel brooks']"
+16,"['Crime', 'Drama']","[353, 258, 711, 521, 587, 77, 6800, 595, 6324, 310, 214, 8889, 251, 4446]",['nudity (rear)']
+17,"['Comedy', 'Drama', 'Romance']","[643, 292, 1061, 9926, 1224, 1320, 587, 2158, 2260, 5301, 7669, 2364, 605, 13407]","['svens to see list', 'based on a book']"
+18,"['Comedy', 'Drama', 'Thriller']","[2241, 93, 10422]",['nudity (topless)']
+20,"['Action', 'Comedy', 'Crime', 'Drama', 'Thriller']","[2938, 2261]",['afternoon section']
+22,"['Crime', 'Drama', 'Horror', 'Mystery', 'Thriller']",[54],['serial killer']
+23,"['Action', 'Crime', 'Thriller']","[6324, 2261]",['afternoon section']
+25,"['Drama', 'Romance']","[1153, 418, 610, 1159, 8583, 2538, 587, 6635, 4491, 4731, 6669, 1422, 625, 11448, 506, 219, 93]",['oscar (best actor)']
+26,['Drama'],"[1320, 9002, 9298, 93]","['adapted from:play', 'playwright:shakespeare']"
+28,"['Drama', 'Romance']","[4818, 730, 11619]",['opal']
+31,['Drama'],"[9762, 1925, 587, 910, 2261]","['afternoon section', 'high school']"
+36,"['Crime', 'Drama']","[14562, 2596, 2600, 172, 8142, 1647, 4112, 10173, 4114, 14511, 213, 633, 762, 7804, 4125, 1023]",['oscar (best actress)']
+39,"['Comedy', 'Romance']","[1253, 1222, 1224, 1450, 651, 5264, 1680, 14035, 7669, 730, 4666, 892, 605]",['seen more than once']
+41,"['Drama', 'War']","[1472, 1320, 9002, 9298, 4666, 5151]","['adapted from:play', 'playwright:shakespeare', 'robert downey jr']"
+43,['Drama'],"[93, 5711]",['nudity (topless)']
+44,"['Action', 'Adventure', 'Fantasy']","[655, 2136, 7407]","['adapted from:game', 'video game adaptation']"
+45,"['Comedy', 'Drama', 'Thriller']","[587, 1925, 374]",['dark comedy']
+48,"['Animation', 'Children', 'Musical', 'Romance']","[2953, 362, 900]","['dinner', 'disney animated feature']"
+49,"['Drama', 'Romance']","[1654, 375]",['lesbian']
+50,"['Crime', 'Mystery', 'Thriller']","[1920, 1925, 7, 2187, 2960, 6800, 12820, 3868, 541, 2603, 5035, 6323, 53, 5175, 583, 10695, 975, 4690, 2389, 727, 351, 608, 15840, 104, 501, 630, 502, 2557, 1535]",['oscar (best supporting actor)']
+52,"['Comedy', 'Drama', 'Romance']","[244, 61, 1925]",['oscar (best supporting actress)']
+57,['Drama'],[1472],['robert downey jr']
+58,"['Comedy', 'Drama', 'Romance']","[354, 498, 6717]",['corvallis library']
+62,['Drama'],"[10176, 9762, 195, 328, 651, 910, 152]",['high school']
+67,['Drama'],[6708],['hw drama']
+71,['Action'],[93],['nudity (topless)']
+78,['Drama'],[93],['nudity (topless)']
+79,"['Drama', 'Thriller']",[93],['nudity (topless)']
+82,"['Comedy', 'Drama']","[1136, 6341, 14510]",['nudity (full frontal)']
+94,"['Comedy', 'Drama', 'Romance']",[2399],['uma thurman']
+97,['Drama'],"[69, 263, 8935, 1065, 10859, 6800, 11505, 1937, 5809, 1140, 4692, 10390, 11061, 1176, 1149, 7071]",['drugs']
+98,"['Action', 'Thriller']","[5264, 765]",['jude law']
+110,"['Action', 'Drama', 'War']","[4098, 6, 6534, 904, 137, 521, 6800, 12819, 5524, 10391, 1435, 5153, 4521, 2094, 6323, 5556, 16309, 8502, 696, 4408, 8891, 15035, 582, 583, 12102, 74, 458, 14929, 4690, 2260, 473, 1625, 605, 93, 13407, 8928, 866, 4707, 870, 2670, 238, 6515, 501, 247, 761, 4731]","['sweeping', 'oscar (best picture)', 'lavish', 'war', 'oscar (best cinematography)', 'afi 100 (thrills)', 'oscar (best directing)']"
+111,"['Crime', 'Drama', 'Thriller']","[13186, 644, 7428, 6534, 8583, 6800, 10906, 7455, 1065, 10420, 310, 8887, 7738, 8891, 15165, 1216, 706, 583, 587, 8912, 8917, 605, 6749, 5857, 225, 15073, 4707, 741, 2538, 4083, 9334, 10871, 6518, 1277, 638]","['afi 100 (movie quotes)', 'bfi classic', 'afi 100 (thrills)', 'afi 100']"
+112,"['Action', 'Adventure', 'Comedy', 'Crime']","[4994, 15780, 5156, 6220, 686]","['kung fu', 'martial arts']"
+114,['Drama'],[398],['less than 300 ratings']
+125,['Comedy'],"[1057, 501]",['want to see again']
+132,['Thriller'],"[595, 603, 1751]",['san francisco']
+140,"['Drama', 'Romance']","[587, 2261, 1822]",['afternoon section']
+141,['Comedy'],"[1888, 554, 9298, 15286, 55]",['gay']
+153,"['Action', 'Adventure', 'Comedy', 'Crime']","[1765, 1641, 9547, 364, 7408, 6323, 5557, 1783, 7736, 1561, 186, 125]","['dc comics', 'adapted from:comic', 'superhero', 'dc', 'alter ego', 'franchise']"
+156,"['Comedy', 'Drama']","[5692, 93, 1174]",['nudity (topless)']
+175,['Drama'],"[14691, 69, 1136, 12820, 6708, 2422]","['hw drama', 'nudity (full frontal)']"
+176,['Comedy'],"[93, 7871]",['nudity (topless)']
+178,"['Comedy', 'Drama']","[374, 9298, 54, 9750]","['dark comedy', 'serial killer']"
+187,['Comedy'],"[6713, 9653, 9182]",['hw comedy']
+190,['Thriller'],"[5512, 515, 6822]",['food']
+194,"['Comedy', 'Drama']","[706, 766, 629, 10845, 510]","['ensemble cast', 'multiple storylines']"
+196,"['Horror', 'Sci-Fi']",[93],['nudity (topless)']
+213,['Drama'],"[4578, 6715, 6711]","['ruffian', 'not corv lib']"
+214,"['Drama', 'War']","[609, 737, 1554, 85, 5241]",['criterion']
+224,"['Comedy', 'Drama', 'Romance']","[1277, 146, 59, 2261]",['afternoon section']
+225,"['Drama', 'Thriller']",[6176],['michael crichton']
+232,"['Comedy', 'Drama', 'Romance']","[9446, 5512, 2295, 5692, 6717]","['food', 'corvallis library']"
+239,"['Animation', 'Children', 'Comedy', 'Romance']","[362, 900]","['dinner', 'disney animated feature']"
+256,"['Comedy', 'Sci-Fi']","[4000, 1186, 15045, 71, 7, 1511, 46, 5556, 4924]",['arnold schwarzenegger']
+260,"['Action', 'Adventure', 'Sci-Fi']","[6533, 6534, 12551, 4616, 3720, 9482, 651, 12, 781, 1783, 141, 6800, 145, 146, 280, 6810, 9756, 7459, 419, 420, 4646, 6520, 6521, 11050, 1834, 5035, 6324, 9781, 6325, 4408, 8890, 446, 1604, 583, 74, 459, 2941, 1614, 3919, 11344, 13144, 11481, 4699, 605, 2144, 1892, 1382, 6502, 2538, 1260, 366, 238, 496, 13169, 887, 4083, 6515, 10741, 4342, 6774, 125, 6518, 10877, 6526]","['usa film registry', 'war', 'noise in space']"
+261,['Drama'],"[1224, 1107, 1061, 6102]",['based on a book']
+265,"['Drama', 'Romance']","[1153, 4098, 9446, 5512, 1897, 15149, 5230, 6669, 2513, 4339, 10907]",['food']
+272,"['Comedy', 'Drama']","[102, 7, 16073, 1868, 143, 2965, 6715]",['not corv lib']
+273,"['Drama', 'Horror']","[1224, 42, 587]",['gothic']
+282,['Drama'],"[1136, 3586, 741]",['nudity (full frontal)']
+289,"['Comedy', 'Romance']",[1472],['robert downey jr']
+299,['Drama'],"[1888, 7, 554, 656, 9010, 885]",['gay']
+300,['Drama'],"[352, 2434, 130, 420, 5289, 587, 8014, 2196, 501, 2390, 10422, 127]",['want to see again']
+302,"['Drama', 'Romance']","[1176, 1136, 10197, 2239]","['netflix', 'nudity (full frontal)']"
+305,['Comedy'],"[1680, 1553, 1136, 4670]",['robert altman']
+315,"['Action', 'Drama', 'Thriller']","[595, 93]","['nudity (topless)', 'nudity (rear)']"
+318,['Drama'],"[4864, 1925, 2955, 651, 4365, 6542, 6800, 4371, 5145, 283, 5281, 419, 4772, 1061, 2341, 420, 5032, 2473, 6440, 172, 1582, 2099, 692, 5301, 5556, 11191, 6324, 1849, 5818, 189, 4413, 582, 583, 714, 586, 458, 587, 7630, 721, 1874, 1619, 473, 730, 605, 4446, 1504, 615, 5098, 11116, 5230, 4339, 6515, 1915]",['author:stephen king']
+328,"['Horror', 'Thriller']",[93],['nudity (topless)']
+329,"['Action', 'Adventure', 'Drama', 'Sci-Fi']","[420, 2950, 651, 2579, 3892, 1783, 6238]",['star trek']
+338,"['Action', 'Sci-Fi', 'Thriller']","[8970, 2371, 54]",['serial killer']
+348,['Comedy'],"[706, 2939, 1925, 6501, 6507, 6540, 10861, 10990, 1135, 2479, 244, 11095, 59, 61]",['oscar (best supporting actress)']
+353,"['Action', 'Crime', 'Fantasy', 'Thriller']","[644, 2693, 8964, 6800, 669, 415, 42, 10548, 11448, 1097, 458, 2513, 595, 8917, 1373, 1382, 7782, 7408, 7026]",['based on a comic']
+354,['Drama'],[113],['baseball']
+356,"['Comedy', 'Drama', 'Romance', 'War']","[15107, 137, 9482, 651, 6539, 4365, 1421, 9616, 6800, 916, 663, 152, 5273, 6298, 1435, 923, 29, 415, 2597, 2470, 1061, 4646, 169, 2347, 8498, 5556, 55, 1849, 10427, 582, 583, 5706, 3023, 2513, 9809, 4690, 473, 219, 605, 2782, 10847, 7776, 1121, 14562, 611, 13533, 1511, 238, 240, 4083, 9588, 6515, 6518, 247, 382, 12543]","['sweeping', 'oscar (best picture)', 'war', 'best picture', 'oscar (best directing)']"
+357,"['Comedy', 'Romance']","[3840, 1222, 2983, 892, 651, 1646, 12820, 3996, 1853]",['seen more than once']
+362,"['Adventure', 'Children', 'Romance']","[1224, 765]",['jude law']
+364,"['Adventure', 'Animation', 'Children', 'Drama', 'Musical']","[900, 10376, 4618, 2955, 651, 664, 8349, 413, 6323, 5301, 10422, 2376, 465, 871, 362, 1899, 1652, 117, 7158]","['dinner', 'animation', 'disney animated feature']"
+367,"['Action', 'Comedy', 'Crime', 'Fantasy']","[7, 2730, 16043, 364, 2956, 9006, 1107, 2261, 214, 55, 7704, 1690, 605]",['animal:dog']
+379,"['Action', 'Sci-Fi', 'Thriller']","[1136, 128, 13]",['nudity (full frontal)']
+380,"['Action', 'Adventure', 'Comedy', 'Romance', 'Thriller']","[1186, 7, 2185, 74, 651, 2474, 11372, 1515, 396, 752, 1295, 110, 6323, 2731, 55, 16158]",['arnold schwarzenegger']
+381,['Drama'],"[625, 11249, 1422]",['likeilike top pick']
+382,"['Drama', 'Horror', 'Romance', 'Thriller']","[42, 1749, 9013, 2261, 605, 1470]","['werewolf', 'afternoon section']"
+393,"['Action', 'Adventure', 'Fantasy']","[7407, 655]","['adapted from:game', 'video game adaptation']"
+405,"['Action', 'Sci-Fi']","[2912, 6323, 1136, 125]","['crappy sequel', 'sequel', 'nudity (full frontal)']"
+413,['Comedy'],"[12197, 6025, 11818, 5236, 1524, 16438, 380, 1759]",['rock and roll']
+416,['Western'],[93],['nudity (topless)']
+434,"['Action', 'Adventure', 'Thriller']","[480, 2593, 10758, 775, 4092]",['clint eastwood']
+444,"['Comedy', 'Romance']",[2399],['uma thurman']
+461,"['Drama', 'Romance']",[375],['lesbian']
+477,"['Drama', 'Musical']","[102, 586, 499, 6515, 633, 1532, 1759]",['rock and roll']
+488,['Drama'],"[4251, 5557]",['alter ego']
+497,"['Comedy', 'Romance']","[10240, 901, 1320, 9002, 5264, 2162, 9298, 5301, 10422]","['adapted from:play', 'playwright:shakespeare']"
+507,"['Crime', 'Drama', 'Thriller']","[1341, 775]",['clint eastwood']
+509,"['Drama', 'Romance']","[4098, 892, 4491, 6800, 4251, 41, 565, 965, 328, 1608, 1610, 587, 2512, 213, 352, 11488, 1382, 5865, 2153, 2538, 244, 764, 766]",['oscar (best supporting actress)']
+511,"['Action', 'Drama']",[8929],['sport:american football']
+517,"['Action', 'Drama', 'Mystery']","[6176, 740, 1061, 587, 595, 53, 93, 1023]",['michael crichton']
+518,['Comedy'],"[6308, 13172]",['literary adaptation']
+519,"['Crime', 'Sci-Fi', 'Thriller']","[2912, 12, 750, 1525, 4344]",['crappy sequel']
+520,['Comedy'],"[5413, 1253, 7, 6, 1452, 944, 1457, 55, 3930]",['mel brooks']
+521,"['Crime', 'Thriller']",[93],['nudity (topless)']
+524,['Drama'],"[8929, 6515, 196, 14573]",['sport:american football']
+527,"['Drama', 'War']","[3586, 1925, 137, 521, 908, 9870, 6800, 12820, 9343, 5281, 1826, 6435, 804, 166, 5287, 169, 1065, 5035, 7091, 5556, 6323, 11448, 11321, 15288, 583, 10824, 8904, 10955, 6988, 2260, 12889, 605, 7776, 5216, 8932, 6501, 1126, 4858, 10344, 10725, 250, 237, 238, 5230, 4083, 499, 761, 501, 247, 6515, 633, 122, 1149, 1023]","['oscar (best picture)', 'world war ii', 'war', 'best picture', 'oscar (best cinematography)', 'oscar (best directing)', 'afi 100']"
+529,['Drama'],"[113, 6515, 7973]",['baseball']
+535,['Drama'],"[510, 4491, 1553, 1554, 1435, 1083, 11453, 4670, 10559, 1472, 15174, 587, 8914, 10966, 8935, 11249, 883, 629, 15102, 2431]",['robert altman']
+538,['Drama'],"[9298, 4366]",['adapted from:play']
+540,['Thriller'],"[1832, 3153, 595, 1500, 93]",['nudity (topless)']
+546,"['Action', 'Adventure', 'Children', 'Comedy', 'Fantasy', 'Sci-Fi']","[899, 11303, 7, 4974, 3247, 7407, 655, 465, 1500, 5372, 605, 2206, 2175]","['adapted from:game', 'video game adaptation']"
+574,"['Comedy', 'Drama']",[1136],['nudity (full frontal)']
+581,['Documentary'],"[1061, 678, 554, 375, 5786]",['lesbian']
+585,['Comedy'],"[11249, 754]",['likeilike top pick']
+588,"['Adventure', 'Animation', 'Children', 'Comedy', 'Musical']","[896, 257, 900, 2955, 651, 5264, 1434, 167, 6324, 192, 459, 465, 1628, 867, 14181, 488, 362, 377, 8063]","['dinner', 'animation', 'disney animated feature']"
+590,"['Adventure', 'Drama', 'Western']","[137, 6539, 1435, 675, 4646, 305, 5556, 15288, 700, 12102, 4559, 2513, 2260, 7776, 353, 5216, 238, 2159, 5230, 887, 6515, 4083, 247, 761, 4731, 6526]","['sweeping', 'oscar (best picture)', 'war', 'best picture', 'oscar (best cinematography)', 'oscar (best directing)']"
+592,"['Action', 'Crime', 'Sci-Fi', 'Thriller']","[2953, 651, 662, 669, 5281, 9512, 4521, 49, 6323, 10420, 5557, 7736, 186, 1470, 74, 9547, 458, 337, 11348, 1373, 1382, 1641, 2538, 750, 7408, 1783, 506, 1149]","['dc comics', 'adapted from:comic', 'superhero', 'dc', 'franchise']"
+593,"['Crime', 'Horror', 'Thriller']","[2948, 1925, 6534, 6533, 137, 521, 651, 11148, 397, 1554, 662, 6806, 10907, 419, 1188, 420, 1065, 42, 6323, 54, 10422, 57, 58, 699, 711, 583, 11723, 15053, 8910, 4690, 213, 8917, 219, 2652, 605, 7776, 611, 741, 6502, 4855, 9070, 9711, 7026, 4083, 6518, 247, 6522, 1915, 1023]","['afi 100 (movie quotes)', 'oscar (best picture)', 'best picture', 'afi 100 (thrills)', 'oscar (best directing)', 'afi 100']"
+594,"['Animation', 'Children', 'Drama', 'Fantasy', 'Musical']","[2144, 896, 900, 14181, 5289, 362, 2955, 9033, 781, 15664, 465, 4946, 4083, 1434, 4954]","['dinner', 'animation', 'disney animated feature']"
+595,"['Animation', 'Children', 'Fantasy', 'Musical', 'Romance']","[900, 10376, 9482, 2955, 651, 4496, 13073, 663, 664, 1434, 1440, 2597, 4521, 5289, 6323, 10422, 2614, 9033, 465, 605, 1502, 4577, 11107, 362, 12016, 11134]","['dinner', 'animation', 'disney animated feature']"
+596,"['Animation', 'Children', 'Fantasy', 'Musical']","[1600, 896, 4065, 900, 14181, 326, 871, 362, 146, 6515, 1719, 413]","['dinner', 'disney animated feature']"
+598,"['Comedy', 'Fantasy']",[4578],['ruffian']
+605,"['Drama', 'Romance']","[587, 2261]",['afternoon section']
+611,"['Action', 'Horror', 'Sci-Fi']",[93],['nudity (topless)']
+616,"['Animation', 'Children']","[896, 362, 10635]",['disney animated feature']
+627,"['Drama', 'Thriller']","[6341, 2956, 374, 729, 1023]",['dark comedy']
+636,['Drama'],"[1224, 54]",['serial killer']
+639,"['Comedy', 'Drama']",[6713],['hw comedy']
+659,"['Crime', 'Drama', 'Thriller']","[6715, 587]",['not corv lib']
+661,"['Animation', 'Children', 'Fantasy', 'Musical']","[5281, 900, 1061, 1224, 362, 9322, 2474, 11470, 337, 465, 5109, 7929]",['based on a book']
+685,['Drama'],"[1888, 554, 1579, 692]",['gay']
+696,"['Drama', 'Thriller']",[1136],['nudity (full frontal)']
+704,"['Action', 'Adventure']",[686],['martial arts']
+708,"['Comedy', 'Romance']","[4946, 1451, 1222, 2399]",['uma thurman']
+709,"['Adventure', 'Animation', 'Children', 'Comedy', 'Musical']","[1224, 362, 8927]",['author:charles dickens']
+737,"['Action', 'Sci-Fi']",[93],['nudity (topless)']
+741,"['Animation', 'Sci-Fi']","[4481, 740, 1925, 712, 1577, 15689, 4780, 7694, 1758]",['anime']
+753,"['Comedy', 'Drama']",[2399],['uma thurman']
+766,['Drama'],"[14506, 11037, 93]",['nudity (topless)']
+775,"['Horror', 'Mystery']",[6308],['literary adaptation']
+783,"['Animation', 'Children', 'Musical']","[900, 9797, 1224, 10376, 362]","['dinner', 'disney animated feature']"
+786,"['Action', 'Drama', 'Thriller']","[1186, 3365, 74, 5098, 6324]",['arnold schwarzenegger']
+799,"['Comedy', 'Horror', 'Thriller']","[2786, 7907, 555, 80, 4980, 54]",['serial killer']
+818,['Comedy'],[125],['sequel']
+831,['Drama'],[554],['gay']
+839,"['Action', 'Thriller']","[7408, 42, 125]","['gothic', 'sequel', 'adapted from:comic']"
+842,"['Comedy', 'Horror']",[93],['nudity (topless)']
+858,"['Crime', 'Drama']","[3844, 1925, 6534, 1287, 4491, 9870, 6800, 2452, 12820, 6298, 1435, 29, 1061, 4521, 2348, 2990, 7726, 304, 6324, 10420, 1974, 8891, 1083, 4925, 319, 706, 1091, 583, 6988, 6221, 10830, 8917, 214, 2136, 2393, 2906, 247, 219, 605, 93, 2144, 7776, 1382, 367, 752, 369, 5105, 4083, 630, 1911, 6518, 1277]","['afi 100 (movie quotes)', 'sweeping', 'oscar (best picture)', 'lavish', 'best picture', 'afi 100 (thrills)', 'afi 100']"
+864,"['Comedy', 'Drama']",[93],['nudity (topless)']
+866,"['Crime', 'Drama', 'Romance', 'Thriller']","[353, 354, 1093, 1382, 5062, 1023, 41, 554, 2538, 583, 662, 375, 6038, 927, 10907, 2268, 7071]",['lesbian']
+867,"['Comedy', 'Crime']",[2889],['cary grant']
+869,['Crime'],[1553],['robert altman']
+880,"['Sci-Fi', 'Thriller']","[1224, 304, 2132]",['pointless']
+891,"['Horror', 'Thriller']","[93, 2181, 1783]","['nudity (topless)', 'slasher']"
+892,"['Comedy', 'Drama', 'Romance']","[1320, 9002, 8604, 9298]","['adapted from:play', 'playwright:shakespeare']"
+897,"['Adventure', 'Drama', 'Romance', 'War']",[244],['oscar (best supporting actress)']
+898,"['Comedy', 'Romance']","[4354, 2889, 9738, 587, 6800, 4082, 4083, 2295, 6200, 3737, 219, 605, 4446]","['cary grant', 'afi 100']"
+899,"['Comedy', 'Musical', 'Romance']","[1091, 4772, 1925, 871, 1511, 781, 9870, 8912, 8401, 4082, 4083, 10422, 2457, 4924, 1469, 10750]",['bfi classic']
+900,"['Musical', 'Romance']","[352, 7776, 4083, 8887, 952, 761, 247]","['best picture', 'oscar (best cinematography)', 'oscar (best picture)', 'afi 100']"
+903,"['Drama', 'Mystery', 'Romance', 'Thriller']","[1925, 6534, 15114, 4491, 651, 781, 6800, 6806, 3737, 12320, 1065, 5289, 1216, 583, 330, 8912, 2136, 4570, 605, 4446, 1123, 8932, 2538, 4083, 887, 1277]","['usa film registry', 'bfi classic', 'alfred hitchcock', 'pinchcock']"
+904,"['Mystery', 'Thriller']","[9346, 1925, 6534, 8455, 1928, 397, 6800, 3988, 662, 15127, 3737, 4121, 678, 1832, 15162, 67, 9028, 11719, 330, 15052, 8917, 2134, 605, 1123, 8941, 4083, 9075, 5752, 4989, 1023]","['alfred hitchcock', 'pinchcock']"
+905,"['Comedy', 'Romance']","[7776, 137, 4978, 4083, 4082, 213, 247, 313, 219, 4446]","['best picture', 'oscar (best picture)', 'oscar (best directing)', 'afi 100']"
+908,"['Adventure', 'Mystery', 'Thriller']","[1925, 6534, 528, 6800, 662, 4139, 10941, 1216, 7873, 2889, 330, 587, 11344, 8917, 2134, 605, 4446, 1123, 8941, 15089, 4083, 10750]","['cary grant', 'alfred hitchcock', 'pinchcock']"
+909,"['Comedy', 'Drama', 'Romance']","[7776, 137, 6800, 4082, 4083, 55, 342, 247, 4251, 3196, 605]","['best picture', 'oscar (best picture)', 'oscar (best directing)', 'afi 100']"
+912,"['Drama', 'Romance']","[10240, 2688, 12164, 1925, 6534, 137, 9482, 651, 781, 9870, 4365, 6800, 12820, 4251, 4772, 678, 2476, 5556, 1091, 2243, 8131, 8014, 2687, 2513, 605, 352, 7776, 14181, 2538, 237, 110, 238, 881, 4083, 6515, 6518, 247, 250, 2686, 1023]","['afi 100 (movie quotes)', 'usa film registry', 'oscar (best picture)', 'war', 'best picture', 'world war ii', 'afi 100 (thrills)', 'oscar (best directing)', 'afi 100']"
+913,"['Film-Noir', 'Mystery']","[642, 1925, 6534, 781, 6800, 6814, 2471, 4139, 9516, 8887, 1224, 8914, 4692, 605, 1382, 7782, 2538, 747, 880, 4083, 6518, 2686]",['usa film registry']
+914,"['Comedy', 'Drama', 'Musical', 'Romance']","[7776, 4772, 871, 137, 9738, 887, 752, 10167, 4626, 4083, 247, 761, 219, 605]","['best picture', 'oscar (best cinematography)', 'oscar (best picture)', 'oscar (best directing)']"
+918,['Musical'],"[6717, 605]",['corvallis library']
+919,"['Adventure', 'Children', 'Fantasy', 'Musical']","[1527, 1925, 6534, 2953, 2955, 781, 9870, 656, 6800, 146, 663, 7704, 669, 1440, 7459, 4772, 1061, 4521, 5289, 5556, 6324, 15045, 8912, 13144, 9180, 605, 4711, 1513, 238, 4464, 4592, 4083, 6515, 6518, 6263, 4987]","['usa film registry', 'bfi classic']"
+920,"['Drama', 'Romance', 'War']","[1154, 1925, 137, 2955, 781, 9870, 6800, 1937, 2978, 6823, 14510, 5301, 837, 1101, 77, 2260, 213, 14168, 605, 7776, 238, 6126, 887, 4978, 6515, 244, 501, 6518, 247, 4083, 761, 4987]","['afi 100 (movie quotes)', 'usa film registry', 'oscar (best picture)', 'war', 'best picture', 'oscar (best cinematography)', 'oscar (best directing)', 'oscar (best supporting actress)', 'afi 100']"
+922,"['Drama', 'Film-Noir', 'Romance']","[1925, 781, 6800, 34, 7459, 678, 11448, 4282, 9926, 12245, 342, 729, 6235, 605, 6500, 11238, 8935, 360, 2538, 6508, 10350, 6514, 883, 4083, 6518, 11128, 506, 4989]","['usa film registry', 'afi 100 (movie quotes)', 'afi 100']"
+923,"['Drama', 'Mystery']","[1925, 4491, 651, 781, 9870, 4112, 6800, 4114, 1435, 4125, 29, 7459, 15272, 1456, 8887, 5059, 583, 4815, 8912, 9809, 8914, 605, 2144, 2538, 243, 4083, 6518, 4731]","['usa film registry', 'bfi classic']"
+926,['Drama'],"[7776, 7713, 605, 6565, 678, 137, 587, 2960, 6800, 4083, 6518, 247, 10973, 11070]","['afi 100 (movie quotes)', 'afi 100', 'oscar (best picture)', 'best picture', 'oscar (best directing)']"
+928,"['Drama', 'Mystery', 'Romance', 'Thriller']","[1123, 5059, 1925, 6534, 4521, 330, 10891, 2538, 1554, 11348, 4534, 247, 761, 605, 7071]","['pinchcock', 'alfred hitchcock', 'lavish', 'oscar (best picture)', 'oscar (best cinematography)', 'afi 100 (thrills)']"
+930,"['Film-Noir', 'Romance', 'Thriller']","[11011, 1123, 6501, 6534, 330, 6800, 1554, 4446]","['alfred hitchcock', 'pinchcock']"
+933,"['Crime', 'Mystery', 'Romance', 'Thriller']","[1123, 1224, 330, 761, 6715, 6716, 605, 1023]","['alfred hitchcock', 'hw classics', 'pinchcock']"
+937,"['Comedy', 'Romance']","[1478, 5289, 5296, 6715, 6716]","['not corv lib', 'hw classics']"
+938,['Musical'],"[871, 137, 6800, 9298, 247, 761]","['oscar (best cinematography)', 'oscar (best picture)', 'oscar (best directing)']"
+944,['Drama'],"[1224, 5281, 6715, 6716]","['not corv lib', 'hw classics']"
+946,"['Comedy', 'Drama', 'War']","[237, 8912, 4082, 374, 2295, 605, 9343]",['world war ii']
+948,['Drama'],"[8928, 137, 4521, 4491, 6800, 15160, 4083, 1435, 11448, 4731]","['sweeping', 'lavish', 'oscar (best directing)']"
+951,"['Comedy', 'Romance']","[1057, 8935, 360, 2889, 9738, 4747, 396, 2247, 6542, 7695, 15150, 4815, 4082, 605, 12254]",['cary grant']
+952,"['Adventure', 'Comedy']","[761, 887, 247]","['oscar (best cinematography)', 'oscar (best picture)']"
+955,['Comedy'],"[647, 396, 528, 15121, 6800, 7704, 9626, 1309, 1057, 6200, 4282, 579, 71, 2889, 9802, 587, 2134, 13786, 349, 605, 9698, 1251, 4082, 4083, 9077, 11134]",['cary grant']
+956,"['Drama', 'Romance']",[2889],['cary grant']
+965,"['Drama', 'Mystery', 'Thriller']","[4674, 1123, 6308, 1925, 1224, 330, 9133, 6800, 1554]","['literary adaptation', 'alfred hitchcock', 'janus 50', 'pinchcock']"
+968,"['Horror', 'Sci-Fi', 'Thriller']","[1216, 641, 6534, 9926, 1065, 15053, 2642, 12820, 8917, 7610, 699, 8891, 7071]",['zombie']
+976,"['Romance', 'War']","[1224, 761, 6308]","['oscar (best cinematography)', 'literary adaptation']"
+982,['Drama'],"[6715, 1421]",['not corv lib']
+1007,"['Children', 'Comedy', 'Western']","[9450, 900]",['disney studios']
+1009,"['Adventure', 'Children', 'Fantasy']","[9450, 167]",['disney studios']
+1010,"['Children', 'Comedy']","[900, 583, 1705, 9450, 907]",['disney studios']
+1012,"['Children', 'Drama']","[7704, 1996, 6748, 605]",['animal:dog']
+1014,"['Children', 'Comedy', 'Drama']","[9450, 900]",['disney studios']
+1016,"['Children', 'Comedy']",[7704],['animal:dog']
+1017,"['Adventure', 'Children']","[900, 4198, 9450, 752, 1523, 2070, 15672, 7101]",['disney studios']
+1021,"['Children', 'Comedy']","[113, 2418]",['baseball']
+1024,"['Animation', 'Children', 'Musical']","[362, 14181]",['disney animated feature']
+1025,"['Animation', 'Children', 'Fantasy', 'Musical']","[900, 14181, 362, 465, 146, 1980, 605]","['dinner', 'animation', 'disney animated feature']"
+1028,"['Children', 'Comedy', 'Fantasy', 'Musical']","[4000, 9443, 4772, 900, 583, 1224, 9450, 686, 3023, 207, 213, 5143]",['disney studios']
+1030,"['Adventure', 'Animation', 'Children', 'Musical']","[14562, 900, 10340, 362, 654, 605]","['dinner', 'disney animated feature']"
+1033,"['Animation', 'Children', 'Drama']","[5512, 362]","['food', 'disney animated feature']"
+1035,"['Musical', 'Romance']","[1925, 137, 2955, 651, 14349, 4000, 10489, 4646, 5289, 965, 583, 605, 7776, 237, 887, 752, 4083, 6515, 247, 633, 250, 6526]","['oscar (best picture)', 'world war ii', 'best picture', 'oscar (best directing)', 'afi 100']"
+1037,"['Action', 'Horror', 'Sci-Fi', 'Thriller']","[7474, 93]",['nudity (topless)']
+1038,['Drama'],"[587, 6708]",['hw drama']
+1043,"['Drama', 'Romance']",[595],['nudity (rear)']
+1051,['Drama'],"[14042, 6715]",['not corv lib']
+1057,"['Comedy', 'Musical', 'Romance']","[651, 61, 1925]",['seen more than once']
+1059,"['Drama', 'Romance']","[672, 774, 1064, 3081, 74, 1451, 1320, 9002, 5614, 9064, 6800, 369, 9298, 6393, 4666, 415]","['adapted from:play', 'playwright:shakespeare']"
+1069,"['Film-Noir', 'Thriller']","[11936, 2538, 15114, 8941, 6800, 4692, 6715, 6716, 12126, 7071]",['hw classics']
+1084,"['Crime', 'Drama']","[352, 6150, 102, 6534, 521, 587, 5487, 4083, 244, 3093, 6518, 761, 13052, 605]","['afi 100 (movie quotes)', 'afi 100 (thrills)', 'afi 100']"
+1086,"['Mystery', 'Thriller']","[6534, 9482, 651, 6542, 6800, 15125, 662, 7972, 15147, 6715, 6716, 330, 8910, 605, 1123, 8932, 15077, 5752, 1023]","['alfred hitchcock', 'pinchcock']"
+1090,"['Drama', 'War']","[6534, 137, 8457, 651, 6539, 6800, 6034, 12820, 2462, 4646, 177, 6323, 74, 6219, 7776, 238, 887, 240, 4083, 247, 6526]","['oscar (best picture)', 'war', 'best picture', 'afi 100 (thrills)', 'oscar (best directing)', 'afi 100']"
+1092,"['Mystery', 'Thriller']","[11143, 2153, 3153, 603, 220]",['san francisco']
+1099,['Drama'],"[497, 9298, 8927]",['author:charles dickens']
+1104,['Drama'],"[10240, 4707, 6121, 2538, 6126, 2960, 304, 9298, 4083, 244, 213, 11348, 4279, 277, 6518, 9050, 4731, 10907]","['afi 100 (movie quotes)', 'oscar (best supporting actress)', 'afi 100']"
+1124,['Drama'],"[3270, 6515, 213, 6518, 6200, 219, 798]",['afi 100 (movie quotes)']
+1130,"['Horror', 'Mystery']","[1136, 1803, 1749]","['werewolf', 'nudity (full frontal)']"
+1147,['Documentary'],"[4136, 1426, 3, 6800]","['boxing', 'sport:boxing']"
+1153,['Film-Noir'],[2927],['tom']
+1161,"['Drama', 'War']","[6308, 583, 360, 1065, 396, 1136, 11477]",['nudity (full frontal)']
+1168,"['Action', 'Adventure', 'Horror']",[1749],['werewolf']
+1171,['Comedy'],"[4612, 501]",['want to see again']
+1183,"['Drama', 'Romance', 'War']","[353, 771, 4485, 1222, 1224, 137, 244, 247, 761, 4251]","['oscar (best cinematography)', 'oscar (best picture)', 'oscar (best supporting actress)', 'oscar (best directing)']"
+1185,['Drama'],"[9825, 11619, 7462, 583, 16073, 16076, 6800, 244, 6715, 219]",['oscar (best supporting actress)']
+1186,['Drama'],"[2144, 6800, 501]",['want to see again']
+1189,['Documentary'],[4818],['opal']
+1193,"['Comedy', 'Drama']","[1925, 137, 6800, 5650, 27, 156, 5788, 6308, 1061, 5809, 10545, 9142, 5816, 4282, 11708, 12221, 1470, 8904, 1224, 5704, 334, 8142, 1874, 213, 247, 219, 605, 93, 351, 7776, 1763, 356, 8935, 12395, 2541, 5230, 1905, 6515, 4083, 1398, 1911, 5752, 377, 4731]","['oscar (best picture)', 'oscar (best directing)', 'best picture']"
+1196,"['Action', 'Adventure', 'Sci-Fi']","[12551, 4616, 3720, 651, 12, 6800, 145, 146, 1946, 7459, 420, 5155, 419, 13859, 552, 1961, 5035, 2092, 6324, 8890, 3011, 10877, 583, 74, 459, 2941, 1614, 3919, 2906, 4699, 605, 1260, 366, 238, 496, 13169, 4210, 1783, 125]",['noise in space']
+1204,"['Adventure', 'Drama', 'War']","[4098, 4485, 1925, 6534, 904, 137, 9482, 9593, 521, 9870, 6800, 1435, 796, 5534, 4521, 9781, 9275, 15035, 583, 11344, 8401, 8912, 1368, 605, 7776, 5216, 4452, 2538, 238, 887, 4083, 6515, 247, 761]","['sweeping', 'oscar (best picture)', 'lavish', 'war', 'best picture', 'bfi classic', 'oscar (best cinematography)', 'afi 100 (thrills)', 'oscar (best directing)', 'afi 100']"
+1210,"['Action', 'Adventure', 'Sci-Fi']","[12551, 4616, 3720, 521, 651, 12, 6800, 145, 146, 13859, 1060, 1834, 5035, 6324, 8890, 583, 74, 459, 2941, 1614, 3919, 4699, 605, 2912, 1892, 1260, 366, 238, 13169, 4210, 1783, 125]",['crappy sequel']
+1219,"['Horror', 'Thriller']","[9476, 1925, 6534, 6800, 662, 2295, 6558, 5289, 54, 8375, 699, 9020, 2370, 13639, 330, 1357, 8917, 605, 1123, 611, 8932, 9827, 15088, 4083, 6518, 1911, 1023]","['alfred hitchcock', 'pinchcock']"
+1221,"['Crime', 'Drama']","[3844, 137, 11275, 1932, 2960, 6800, 2452, 12820, 6298, 2348, 6323, 1974, 319, 706, 1091, 583, 214, 2393, 605, 351, 7776, 752, 4083, 4212, 630, 247, 6518, 253, 125, 638]","['oscar (best supporting actor)', 'afi 100 (movie quotes)', 'oscar (best picture)', 'best picture', 'oscar (best directing)', 'afi 100']"
+1224,"['Drama', 'War']","[1320, 9002, 2158, 6800, 689, 9298, 2260]","['adapted from:play', 'playwright:shakespeare']"
+1225,['Drama'],"[6530, 1925, 137, 9738, 2953, 2957, 2958, 6800, 2965, 5534, 328, 16073, 78, 473, 219, 93, 605, 4446, 352, 7776, 102, 5992, 2671, 1263, 4083, 4854, 247, 6520, 633, 6526, 1535]","['oscar (best picture)', 'oscar (best directing)', 'best picture']"
+1226,"['Comedy', 'Romance']","[137, 587, 10891, 6800, 761]","['oscar (best cinematography)', 'oscar (best directing)']"
+1228,['Drama'],"[3, 6534, 6800, 1426, 4115, 10390, 419, 4138, 310, 8887, 2614, 8891, 8904, 587, 2136, 219, 605, 4707, 1382, 10344, 2538, 4083, 8829, 638]","['boxing', 'sport:boxing']"
+1230,"['Comedy', 'Romance']","[1925, 137, 6800, 1826, 4772, 1451, 5035, 2998, 55, 61, 583, 6602, 213, 7776, 2671, 4082, 4083, 9334, 247, 6518]","['afi 100 (movie quotes)', 'oscar (best picture)', 'best picture', 'oscar (best directing)', 'afi 100']"
+1232,"['Drama', 'Mystery', 'Sci-Fi']","[6800, 4250, 10907, 4381, 1061, 4517, 1702, 1582, 4534, 452, 9926, 10824, 77, 7630, 89, 10973, 351, 4578, 8932, 11263]",['not available from netflix']
+1237,"['Drama', 'Fantasy']","[1925, 6, 6800, 1554, 1812, 662, 669, 2596, 1702, 306, 4534, 6717, 4674, 2243, 6988, 8912, 4446, 2538, 2670, 4863]","['janus 50', 'ingmar bergman']"
+1241,"['Comedy', 'Fantasy', 'Horror']","[641, 644, 5733, 583, 1706, 555, 1838, 5232, 2642, 5235, 12820, 565, 15703]",['zombie']
+1242,"['Action', 'Drama', 'War']","[5281, 6526, 456, 586, 11435, 1101, 2960, 633, 6515, 2260, 761, 605, 5278]",['oscar (best cinematography)']
+1247,"['Comedy', 'Drama', 'Romance']","[137, 8457, 651, 396, 9870, 4251, 9884, 290, 4772, 6823, 7468, 10422, 55, 15174, 5834, 11345, 4692, 2134, 605, 4446, 360, 4082, 4083, 501, 6518, 11128, 13050]",['afi 100 (movie quotes)']
+1250,"['Adventure', 'Drama', 'War']","[6145, 6534, 137, 6800, 4772, 583, 4564, 4571, 247, 219, 605, 7776, 237, 238, 6515, 4083, 761, 887, 633]","['oscar (best picture)', 'war', 'best picture', 'world war ii', 'oscar (best cinematography)', 'afi 100 (thrills)', 'oscar (best directing)', 'afi 100']"
+1253,"['Drama', 'Sci-Fi', 'Thriller']","[1216, 6534, 167, 6800, 6515, 8917, 6715, 4570, 4731, 6716, 605, 351]",['hw classics']
+1254,"['Action', 'Adventure', 'Drama', 'Western']","[1216, 8771, 15075, 6534, 8935, 137, 1065, 8941, 2960, 15058, 4083, 662, 10966, 6518, 10906, 605]","['afi 100 (movie quotes)', 'afi 100 (thrills)', 'oscar (best directing)', 'afi 100']"
+1256,"['Comedy', 'Musical']","[1925, 6800, 4082, 4083, 7867]",['marx brothers']
+1257,"['Comedy', 'Romance']","[1440, 354, 5189, 71, 1511, 1450, 396, 1932, 910, 11665, 4924]",['high school']
+1258,"['Horror', 'Thriller']","[644, 6277, 6534, 521, 4746, 6800, 2712, 5281, 1699, 675, 1061, 1065, 1577, 6323, 57, 1849, 8891, 4413, 1470, 189, 704, 583, 1224, 11723, 78, 80, 8917, 3413, 8537, 218, 605, 4446, 742, 11241, 5226, 12141, 15088, 1136, 16244, 6518, 10617, 254]",['author:stephen king']
+1261,"['Action', 'Comedy', 'Fantasy', 'Horror']","[641, 644, 14693, 1382, 1706, 2538, 4747, 13866, 1841, 7697, 2642, 12820, 5202, 22, 662, 56, 5917]",['zombie']
+1263,"['Drama', 'War']","[7776, 4446, 6534, 9926, 137, 6094, 1647, 240, 2960, 887, 4083, 12820, 247, 8889, 638]","['afi 100', 'oscar (best picture)', 'best picture', 'afi 100 (thrills)', 'oscar (best directing)']"
+1264,"['Action', 'Drama', 'Mystery', 'Romance', 'Thriller']","[93, 2958]",['nudity (topless)']
+1266,"['Drama', 'Western']","[6531, 775, 137, 2960, 6800, 6676, 662, 9507, 10407, 1704, 7467, 2733, 1085, 6600, 587, 6988, 605, 4446, 6367, 2144, 7776, 7782, 5865, 4083, 247, 1915, 1149]","['oscar (best picture)', 'oscar (best directing)', 'best picture']"
+1269,"['Comedy', 'Mystery', 'Thriller']","[5289, 2889, 971, 6800, 4082, 4854, 8123, 605, 4446, 1023]",['cary grant']
+1272,"['Drama', 'War']","[7776, 102, 137, 6539, 908, 237, 887, 369, 499, 4083, 247, 633, 219]","['best picture', 'oscar (best picture)', 'oscar (best directing)']"
+1276,['Drama'],"[352, 4707, 8932, 7782, 2538, 172, 2960, 6800, 6515, 10997, 10390, 6518, 473, 605]",['afi 100 (movie quotes)']
+1278,"['Action', 'Comedy', 'Horror']","[867, 4772, 5413, 1925, 3783, 42, 1452, 5423, 5487, 944, 210, 1457, 1524, 1140, 4082, 5466, 2717]",['mel brooks']
+1282,"['Animation', 'Children', 'Fantasy', 'Musical']","[64, 192, 257, 1091, 900, 5289, 362, 651, 752, 465, 4083, 10422, 887, 605]","['dinner', 'animation', 'disney animated feature']"
+1283,['Western'],"[6534, 9482, 781, 3988, 1944, 4121, 3614, 9507, 2596, 1974, 9533, 5837, 219, 605, 7654, 2928, 2929, 4083, 6515, 634, 1023]",['usa film registry']
+1287,"['Action', 'Adventure', 'Drama', 'Romance']","[6534, 137, 2960, 6800, 662, 1435, 4521, 5556, 583, 7753, 11344, 4690, 219, 7776, 9579, 887, 4083, 6515, 11382, 247, 761, 7675]","['sword and sandal', 'sweeping', 'oscar (best picture)', 'lavish', 'best picture', 'classical studies', 'oscar (best cinematography)', 'afi 100 (thrills)', 'oscar (best directing)', 'afi 100']"
+1288,"['Comedy', 'Musical']","[1925, 9482, 651, 1932, 396, 528, 1554, 1685, 4121, 286, 34, 55, 4282, 1085, 71, 328, 5834, 210, 471, 605, 1759, 4961, 2786, 360, 369, 4082, 4857]",['rock and roll']
+1293,['Drama'],"[102, 583, 201, 137, 12539, 887, 6515, 247, 1368, 761, 219, 5534]","['oscar (best cinematography)', 'oscar (best picture)', 'oscar (best directing)']"
+1299,"['Drama', 'War']","[7683, 2960, 6515, 10422, 1368, 761, 187]",['oscar (best cinematography)']
+1321,"['Comedy', 'Horror', 'Thriller']","[1216, 641, 360, 2538, 1803, 6800, 1749, 662, 8917, 9013, 2460, 605]",['werewolf']
+1329,['Horror'],"[1554, 42, 62]","['gothic', 'vampire']"
+1333,['Horror'],"[1123, 1925, 6534, 8935, 330, 651, 4251, 8912, 6800, 7026, 4818, 10420, 15483, 605, 4958, 1663]","['bfi classic', 'alfred hitchcock', 'pinchcock']"
+1337,"['Drama', 'Horror', 'Thriller']","[6308, 1925, 7711]",['literary adaptation']
+1340,"['Drama', 'Horror', 'Sci-Fi']","[42, 6715, 1085, 1925]",['not corv lib']
+1342,"['Horror', 'Thriller']",[93],['nudity (topless)']
+1345,"['Drama', 'Fantasy', 'Horror', 'Thriller']","[15073, 6534, 1224, 11241, 2538, 4413, 173, 15053, 910, 662, 189, 6715, 4570, 8891, 1373]",['author:stephen king']
+1347,"['Horror', 'Thriller']","[2181, 2384, 8373, 1783, 59, 9919]",['slasher']
+1349,['Horror'],[62],['vampire']
+1353,"['Comedy', 'Drama', 'Romance']","[6708, 6709]",['hw drama']
+1356,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","[9729, 420, 2950, 582, 5035, 6156, 13, 1614, 2579, 1783, 10877]","['star trek', 'noise in space']"
+1359,"['Adventure', 'Children', 'Comedy']",[1186],['arnold schwarzenegger']
+1363,['Drama'],"[587, 6717]",['corvallis library']
+1366,['Drama'],[9298],['adapted from:play']
+1370,"['Action', 'Adventure', 'Thriller']","[1184, 2593, 1954, 74, 6800, 2261]",['afternoon section']
+1371,"['Adventure', 'Sci-Fi']","[420, 2950, 5035, 14349, 1614, 3892, 2133, 1783, 13883, 10877]","['star trek', 'noise in space']"
+1372,"['Action', 'Mystery', 'Sci-Fi']","[420, 2950, 5035, 1614, 3892, 1783, 10877, 1023]","['star trek', 'noise in space']"
+1373,"['Action', 'Sci-Fi']","[420, 2950, 5035, 1614, 1783, 10877]","['star trek', 'noise in space']"
+1374,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","[9348, 2950, 145, 1023, 161, 420, 5035, 2990, 5812, 195, 1614, 6238, 10211, 612, 228, 10725, 10855, 11495, 125, 1783, 6522, 10877, 6527]","['star trek', 'noise in space']"
+1375,"['Action', 'Adventure', 'Sci-Fi']","[420, 2950, 5035, 2418, 1783, 6238]",['star trek']
+1376,"['Adventure', 'Comedy', 'Sci-Fi']","[1600, 420, 2950, 5035, 13, 9806, 369, 5876, 4062, 1783, 13883, 6238]",['star trek']
+1377,"['Action', 'Crime', 'Fantasy', 'Mystery', 'Romance', 'Thriller']","[2444, 9109, 682, 5557, 7736, 186, 4924, 74, 587, 9547, 4304, 337, 4946, 1108, 981, 1641, 7408, 1783, 1785]","['dc comics', 'adapted from:comic', 'superhero', 'dc', 'franchise']"
+1379,"['Action', 'Western']",[595],['nudity (rear)']
+1381,"['Comedy', 'Musical', 'Romance']","[2261, 910]","['afternoon section', 'high school']"
+1392,"['Comedy', 'Drama']",[501],['want to see again']
+1401,['Drama'],[6708],['hw drama']
+1411,"['Crime', 'Drama', 'Romance']","[1320, 4136, 9002, 5264, 2162, 4115, 9298, 10422, 4251, 1023]","['adapted from:play', 'playwright:shakespeare']"
+1413,['Drama'],"[4818, 6715]","['not corv lib', 'opal']"
+1447,['Crime'],[93],['nudity (topless)']
+1450,['War'],[4578],['ruffian']
+1459,"['Mystery', 'Thriller']","[6708, 775]","['clint eastwood', 'hw drama']"
+1465,['Drama'],"[6715, 6708]","['not corv lib', 'hw drama']"
+1477,['Romance'],[6708],['hw drama']
+1480,"['Drama', 'Thriller']",[595],['nudity (rear)']
+1502,"['Drama', 'Romance']","[1136, 5231]",['nudity (full frontal)']
+1515,"['Action', 'Drama', 'Thriller']","[5097, 1509, 1517]",['unintentional comedy']
+1531,['Drama'],"[1344, 375]",['lesbian']
+1544,"['Action', 'Adventure', 'Horror', 'Sci-Fi', 'Thriller']","[6176, 1126, 14600, 2731, 369, 6324, 596, 1783]",['michael crichton']
+1555,['Drama'],[4381],['not available from netflix']
+1556,"['Action', 'Romance', 'Thriller']","[2912, 3137, 2918, 14361, 10908, 125]","['crappy sequel', 'sequel']"
+1562,"['Action', 'Adventure', 'Fantasy', 'Thriller']","[1186, 1765, 1829, 1641, 7408, 276, 5557, 1783, 7736, 186, 2399]","['dc comics', 'superhero', 'dc', 'alter ego', 'franchise']"
+1587,"['Action', 'Adventure']","[1186, 605, 583, 1789, 74, 459, 1815, 475, 93, 2783]",['arnold schwarzenegger']
+1605,"['Adventure', 'Romance']",[6713],['hw comedy']
+1616,"['Action', 'Thriller', 'War']","[10635, 2261]",['afternoon section']
+1624,['Drama'],[6708],['hw drama']
+1628,['Drama'],[398],['less than 300 ratings']
+1646,"['Children', 'Comedy', 'Romance', 'Sci-Fi']",[137],['oscar (best directing)']
+1648,"['Comedy', 'Drama']","[6713, 374]","['dark comedy', 'hw comedy']"
+1653,"['Drama', 'Sci-Fi', 'Thriller']","[2953, 2955, 5264, 534, 24, 566, 694, 446, 1089, 197, 8905, 587, 8142, 2399, 1121, 354, 866, 2663, 366, 369, 6388, 1398, 765, 10494]",['uma thurman']
+1658,"['Romance', 'Thriller']","[6800, 7836, 587, 651]",['seen more than once']
+1660,['Drama'],[6715],['not corv lib']
+1670,"['Drama', 'War']",[501],['want to see again']
+1681,"['Action', 'Adventure', 'Fantasy']","[655, 7407, 2623]","['adapted from:game', 'video game adaptation']"
+1685,"['Drama', 'Romance']","[5264, 10649, 765]",['jude law']
+1688,"['Animation', 'Children', 'Musical']","[2418, 362]",['disney animated feature']
+1711,"['Comedy', 'Crime', 'Drama', 'Mystery']","[5264, 4371, 765, 1224]",['jude law']
+1721,"['Drama', 'Romance']","[6534, 137, 2955, 651, 13, 4365, 12820, 1435, 5019, 415, 675, 1064, 4521, 2474, 5289, 687, 2998, 182, 11448, 2364, 7101, 5565, 1222, 971, 2513, 473, 11739, 2782, 14562, 1508, 2538, 1259, 887, 633, 501, 6518, 247, 761, 892]","['sweeping', 'oscar (best picture)', 'lavish', 'oscar (best directing)']"
+1722,"['Action', 'Romance', 'Thriller']","[485, 2731, 2577, 657, 9015, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+1726,['Drama'],"[386, 4941, 369, 595, 93]",['nudity (topless)']
+1735,"['Drama', 'Romance']","[1224, 13333, 8927]",['author:charles dickens']
+1753,['Comedy'],"[1087, 69, 93, 55]",['nudity (topless)']
+1767,"['Drama', 'Romance']","[5264, 765]",['jude law']
+1772,"['Action', 'Comedy', 'Musical']","[11249, 2202, 2460]",['likeilike top pick']
+1773,"['Action', 'Drama']",[3],['boxing']
+1797,"['Documentary', 'IMAX']",[651],['seen more than once']
+1821,"['Comedy', 'Romance']","[554, 587]",['gay']
+1841,"['Drama', 'Thriller']","[1136, 1553]","['robert altman', 'nudity (full frontal)']"
+1844,"['Drama', 'Romance']","[6800, 93, 10494]",['nudity (topless)']
+1862,"['Horror', 'Sci-Fi']","[1136, 595]",['nudity (full frontal)']
+1873,"['Crime', 'Drama', 'Romance']","[1224, 587, 2399]",['uma thurman']
+1885,"['Comedy', 'Drama']",[9926],['svens to see list']
+1897,"['Drama', 'Romance']",[375],['lesbian']
+1911,['Comedy'],"[9360, 1574]",['adapted from:book series']
+1919,"['Children', 'Comedy']","[9360, 5193]",['adapted from:book series']
+1926,['Musical'],[247],['oscar (best picture)']
+1927,"['Action', 'Drama', 'War']","[7776, 355, 6308, 4485, 1925, 137, 4523, 4083, 247, 351]","['best picture', 'oscar (best picture)', 'oscar (best directing)', 'afi 100']"
+1928,"['Drama', 'Western']",[247],['oscar (best picture)']
+1929,['Drama'],"[6800, 6518, 247]","['afi 100 (movie quotes)', 'oscar (best picture)']"
+1930,"['Drama', 'Romance', 'War']","[137, 247]","['oscar (best picture)', 'oscar (best directing)']"
+1931,"['Adventure', 'Drama']","[7776, 6800, 4978, 4083, 247]","['best picture', 'oscar (best picture)', 'afi 100']"
+1933,['Drama'],"[2960, 247]","['oscar (best supporting actor)', 'oscar (best picture)']"
+1934,"['Comedy', 'Romance']","[137, 6717, 247]","['oscar (best picture)', 'oscar (best directing)']"
+1935,"['Drama', 'Musical', 'Romance']","[2960, 137, 761, 247]","['oscar (best cinematography)', 'oscar (best picture)', 'oscar (best directing)']"
+1936,"['Drama', 'War']","[12132, 137, 237, 143, 6515, 244, 213, 247, 761]","['oscar (best cinematography)', 'oscar (best picture)', 'oscar (best supporting actress)', 'oscar (best directing)']"
+1937,['Comedy'],"[2960, 137, 219, 247]","['oscar (best supporting actor)', 'oscar (best picture)', 'oscar (best actor)', 'oscar (best directing)']"
+1938,['Drama'],"[15138, 4707, 8904, 137, 5934, 625, 247, 10906, 219, 10907, 1149, 6367]","['oscar (best picture)', 'oscar (best actor)', 'oscar (best directing)']"
+1939,"['Drama', 'War']","[7776, 137, 5289, 6539, 781, 237, 2960, 4818, 6515, 4083, 247, 219, 11198]","['best picture', 'oscar (best picture)', 'oscar (best directing)', 'afi 100']"
+1940,['Drama'],"[137, 244, 247]","['oscar (best picture)', 'oscar (best supporting actress)', 'oscar (best directing)']"
+1941,['Drama'],"[10240, 9002, 4251, 6800, 1554, 9298, 247, 219, 1023]","['adapted from:play', 'playwright:shakespeare']"
+1942,['Drama'],"[450, 1911, 6800, 4818, 244, 247, 219]","['oscar (best picture)', 'oscar (best supporting actress)']"
+1943,['Drama'],"[6800, 247]",['oscar (best picture)']
+1944,"['Drama', 'Romance', 'War']","[7776, 137, 237, 2960, 3633, 4083, 244, 247, 761]","['oscar (best picture)', 'best picture', 'oscar (best cinematography)', 'oscar (best supporting actress)', 'oscar (best directing)']"
+1945,"['Crime', 'Drama']","[7776, 137, 781, 9870, 304, 8912, 6800, 4083, 244, 277, 6515, 247, 6518, 761, 219, 4446]","['afi 100 (movie quotes)', 'usa film registry', 'afi 100', 'oscar (best picture)', 'best picture', 'oscar (best cinematography)', 'oscar (best supporting actress)', 'oscar (best directing)']"
+1946,"['Drama', 'Romance']","[137, 219, 247]","['oscar (best picture)', 'oscar (best actor)', 'oscar (best directing)']"
+1947,"['Drama', 'Musical', 'Romance']","[263, 137, 9738, 2960, 6800, 1320, 1720, 4666, 9408, 971, 6093, 605, 7776, 997, 871, 887, 4083, 244, 247, 761]","['oscar (best picture)', 'best picture', 'oscar (best cinematography)', 'oscar (best directing)', 'oscar (best supporting actress)', 'afi 100']"
+1948,['Comedy'],"[137, 247]","['oscar (best picture)', 'oscar (best directing)']"
+1949,['Drama'],"[10240, 137, 4907, 247, 761, 219]","['oscar (best cinematography)', 'oscar (best picture)', 'oscar (best directing)']"
+1950,"['Drama', 'Mystery']","[263, 4818, 51, 6515, 6518, 247, 219]","['afi 100 (movie quotes)', 'oscar (best picture)']"
+1951,"['Drama', 'Musical']","[871, 1224, 137, 9738, 247, 8927]",['author:charles dickens']
+1952,['Drama'],"[2144, 7776, 15173, 7782, 8583, 1608, 137, 5230, 2513, 15058, 6675, 4083, 6518, 247, 11448, 4279, 4731, 10907]","['afi 100 (movie quotes)', 'afi 100', 'oscar (best picture)', 'best picture', 'oscar (best directing)']"
+1953,"['Action', 'Crime', 'Drama', 'Thriller']","[2, 5893, 1925, 6534, 137, 6800, 538, 7071, 164, 2733, 5809, 53, 595, 4692, 219, 6367, 7776, 4707, 7782, 2538, 4083, 247]","['afi 100', 'oscar (best picture)', 'best picture', 'afi 100 (thrills)', 'oscar (best directing)']"
+1954,"['Action', 'Drama', 'Romance']","[7776, 3, 196, 6534, 2184, 137, 15720, 1783, 1426, 9779, 4083, 6515, 6518, 247, 605, 415]","['afi 100 (movie quotes)', 'sport:boxing', 'afi 100', 'oscar (best picture)', 'boxing', 'best picture', 'afi 100 (thrills)', 'oscar (best directing)']"
+1955,['Drama'],"[137, 203, 14511, 244, 247, 219, 10396, 6717, 4702]","['oscar (best picture)', 'oscar (best supporting actress)', 'oscar (best directing)']"
+1956,['Drama'],"[1344, 137, 9070, 2960, 752, 501, 247, 9209]","['oscar (best supporting actor)', 'oscar (best picture)', 'oscar (best directing)']"
+1957,['Drama'],"[6800, 6513, 6515, 1395, 887, 247]",['oscar (best picture)']
+1959,"['Drama', 'Romance']","[1925, 137, 6800, 247, 761]","['oscar (best cinematography)', 'oscar (best picture)', 'oscar (best directing)']"
+1960,['Drama'],"[5216, 7683, 249, 102, 137, 587, 6800, 247, 1368, 761, 315, 700]",['oscar (best cinematography)']
+1961,['Drama'],"[1091, 419, 611, 7462, 27, 1545, 137, 2953, 6515, 1364, 247, 792, 633, 219, 478]","['oscar (best picture)', 'oscar (best directing)']"
+1962,['Drama'],"[10240, 2978, 2341, 263, 7081, 1937, 6515, 213, 247]",['oscar (best picture)']
+1964,"['Drama', 'Mystery']","[6800, 213, 9926]",['svens to see list']
+1969,"['Horror', 'Thriller']","[2181, 1783]",['slasher']
+1970,"['Comedy', 'Fantasy', 'Horror', 'Thriller']","[93, 2181, 1783]","['nudity (topless)', 'slasher']"
+1971,"['Fantasy', 'Horror', 'Thriller']","[93, 2181, 1783]","['nudity (topless)', 'slasher']"
+1972,['Horror'],"[2181, 1783]",['slasher']
+1974,['Horror'],"[7713, 1829, 2181, 1544, 1783]",['slasher']
+1975,['Horror'],"[1136, 2181, 1783]","['nudity (full frontal)', 'slasher']"
+1976,['Horror'],"[2181, 1783]",['slasher']
+1977,['Horror'],"[2181, 1783]",['slasher']
+1978,['Horror'],"[369, 2181, 1783]",['slasher']
+1979,['Horror'],"[7713, 2181, 1783]",['slasher']
+1981,['Horror'],"[2181, 1783]",['slasher']
+1983,['Horror'],"[93, 13333, 2181, 1783]",['slasher']
+1985,['Horror'],"[12820, 2181, 1783]",['slasher']
+1986,['Horror'],"[2181, 1783]",['slasher']
+2013,"['Action', 'Adventure', 'Drama']","[1259, 2132, 6534, 887]",['pointless']
+2015,"['Children', 'Comedy', 'Fantasy']","[9450, 900]",['disney studios']
+2016,"['Children', 'Comedy', 'Western']","[9450, 900]",['disney studios']
+2021,"['Adventure', 'Sci-Fi']","[13860, 1061, 1224, 74, 366, 625, 146, 305, 9041, 7474, 13169, 1107, 13875, 605, 1535]",['based on a book']
+2024,"['Drama', 'Mystery']",[93],['nudity (topless)']
+2028,"['Action', 'Drama', 'War']","[770, 1925, 6534, 137, 521, 11403, 908, 6539, 6800, 4121, 1435, 4646, 1065, 5289, 169, 4528, 1078, 8891, 2235, 583, 8904, 74, 11730, 4818, 2260, 473, 2144, 8928, 1126, 7782, 237, 238, 2928, 2929, 6515, 761, 4858, 4731, 1277, 382]","['sweeping', 'afi 100 (thrills)', 'war', 'oscar (best directing)']"
+2029,"['Comedy', 'Romance']",[554],['gay']
+2033,"['Animation', 'Children']","[900, 1061, 362, 1809, 11157, 605]","['dinner', 'disney animated feature']"
+2057,"['Adventure', 'Children']","[9450, 900]",['disney studios']
+2067,"['Drama', 'Romance', 'War']","[1800, 6800, 5783, 1435, 6308, 4521, 169, 1582, 583, 1224, 11344, 90, 4343, 605, 8932, 2538, 12141, 4083, 887, 761]","['sweeping', 'lavish']"
+2068,"['Drama', 'Fantasy', 'Mystery']","[1153, 8932, 1925, 12262, 4496, 2513, 306, 6800, 11348, 501, 761, 4731, 605]",['ingmar bergman']
+2069,['Drama'],[213],['oscar (best actress)']
+2070,['Drama'],"[6715, 6514, 219, 6708]",['not corv lib']
+2078,"['Animation', 'Children', 'Comedy', 'Musical']","[900, 4293, 14181, 605, 1224, 10376, 362, 1876, 10422, 765]","['dinner', 'jude law', 'disney animated feature']"
+2080,"['Animation', 'Children', 'Comedy', 'Musical', 'Romance']","[192, 900, 1925, 1574, 2276, 14181, 362, 1451, 752, 465, 4946, 1876, 413]","['dinner', 'animation', 'disney animated feature']"
+2081,"['Animation', 'Children', 'Comedy', 'Musical', 'Romance']","[900, 1224, 5289, 362, 2955, 2732, 5021, 3023, 207, 465, 1853]","['dinner', 'animation', 'disney animated feature']"
+2083,"['Children', 'Fantasy', 'Musical']","[4897, 497, 9298, 3736, 5215, 11262, 8927]",['author:charles dickens']
+2084,"['Children', 'Musical']","[9450, 716, 900]",['disney studios']
+2088,"['Adventure', 'Comedy', 'Musical']","[1553, 4670]",['robert altman']
+2089,"['Animation', 'Children']",[362],['disney animated feature']
+2090,"['Adventure', 'Animation', 'Children', 'Crime', 'Drama', 'Fantasy']","[458, 362, 900]","['dinner', 'disney animated feature']"
+2092,"['Adventure', 'Animation', 'Children', 'Comedy', 'Fantasy', 'Musical']","[362, 900]","['dinner', 'disney animated feature']"
+2096,"['Animation', 'Children', 'Musical']","[900, 9033, 362, 2953, 465, 209, 887, 664]","['dinner', 'animation', 'disney animated feature']"
+2099,"['Adventure', 'Animation', 'Children', 'Musical']","[1314, 10340, 900, 9450, 1876, 117]",['disney studios']
+2100,"['Comedy', 'Fantasy', 'Romance']","[1222, 10249, 2731, 595, 2261, 892]",['afternoon section']
+2107,"['Horror', 'Thriller']","[2181, 1783]",['slasher']
+2111,['Comedy'],"[93, 5965]",['nudity (topless)']
+2112,"['Crime', 'Drama']","[10920, 11249, 93]",['likeilike top pick']
+2118,"['Drama', 'Fantasy', 'Horror', 'Thriller']","[9153, 1224, 13, 5268, 189, 1273, 4413]",['author:stephen king']
+2120,"['Drama', 'Horror']","[1061, 1224, 189, 1849, 8956, 4413]",['author:stephen king']
+2121,"['Horror', 'Thriller']","[1224, 4413]",['author:stephen king']
+2122,"['Horror', 'Thriller']","[1224, 7929, 4413, 12807]",['author:stephen king']
+2126,"['Action', 'Crime', 'Mystery', 'Thriller']","[418, 2261]",['afternoon section']
+2130,"['Crime', 'Drama', 'Romance']","[93, 9926]","['nudity (topless)', 'svens to see list']"
+2131,['Drama'],"[8932, 1925, 12262, 1582, 6800, 1554, 306, 5752, 1149]",['ingmar bergman']
+2132,['Drama'],"[10240, 290, 2247, 4907, 5935, 244, 213, 761]","['oscar (best cinematography)', 'oscar (best supporting actress)']"
+2133,"['Adventure', 'Comedy']","[1450, 5634, 2261, 2878]",['afternoon section']
+2134,"['Comedy', 'Fantasy', 'Sci-Fi']","[1472, 10825, 1450, 910, 9234, 4084, 2878]",['robert downey jr']
+2135,"['Adventure', 'Musical']",[9360],['adapted from:book series']
+2138,"['Adventure', 'Animation', 'Children', 'Drama', 'Fantasy']","[1224, 521, 1061, 5759]",['based on a book']
+2139,"['Adventure', 'Animation', 'Children', 'Drama']","[1224, 2330, 651]",['seen more than once']
+2158,"['Crime', 'Horror']","[54, 1023]",['serial killer']
+2159,"['Crime', 'Horror', 'Thriller']","[54, 1023]",['serial killer']
+2166,"['Drama', 'Romance']",[69],['drugs']
+2167,"['Action', 'Horror', 'Thriller']","[14336, 42, 587, 5678, 7474, 119, 4955, 2621, 62]",['vampire']
+2176,"['Crime', 'Drama', 'Thriller']","[1123, 742, 330, 3020, 1069, 6800, 5170, 605, 1023]","['alfred hitchcock', 'pinchcock']"
+2177,"['Comedy', 'Thriller']","[6800, 2953, 1123]",['pinchcock']
+2178,['Thriller'],"[6800, 1123]",['pinchcock']
+2181,"['Drama', 'Mystery', 'Romance', 'Thriller']","[1123, 6822, 6800, 4818, 6716]",['hw classics']
+2184,"['Comedy', 'Mystery']","[1123, 1224, 6800, 374, 729]",['dark comedy']
+2185,['Thriller'],"[6800, 1123]",['pinchcock']
+2186,"['Crime', 'Drama', 'Film-Noir', 'Thriller']","[1888, 1123, 1925, 6534, 330, 6800, 2136, 605, 1023]","['alfred hitchcock', 'pinchcock']"
+2188,['Drama'],"[11249, 6708]",['likeilike top pick']
+2202,"['Drama', 'War']",[1123],['pinchcock']
+2203,"['Film-Noir', 'Thriller']","[1123, 11107, 1925, 1065, 330, 5289, 15180, 6800, 4692, 11348, 662, 699, 605]","['alfred hitchcock', 'pinchcock']"
+2204,['Thriller'],"[6800, 1123]",['pinchcock']
+2208,"['Drama', 'Mystery', 'Thriller']","[7713, 4674, 1925, 330, 1709, 6800, 1554, 605]",['janus 50']
+2211,['Thriller'],"[1224, 9294, 110, 6800, 9298]",['adapted from:play']
+2227,"['Crime', 'Drama', 'Thriller']",[1123],['pinchcock']
+2263,"['Drama', 'Fantasy', 'Thriller']",[93],['nudity (topless)']
+2269,"['Drama', 'Romance']",[93],['nudity (topless)']
+2270,['Documentary'],[4381],['not available from netflix']
+2273,"['Action', 'Comedy', 'Crime', 'Thriller']","[2371, 5156, 686, 8944, 563]","['kung fu', 'martial arts']"
+2280,['Crime'],[595],['nudity (rear)']
+2282,"['Comedy', 'Drama']","[14160, 1136]",['nudity (full frontal)']
+2283,['Drama'],[1136],['nudity (full frontal)']
+2289,"['Comedy', 'Crime', 'Drama']","[1216, 34, 8935, 360, 4670, 5834, 9610, 9164, 6542, 1553, 9106, 4692, 2134, 9054, 10559]",['robert altman']
+2295,['Comedy'],[6713],['hw comedy']
+2300,"['Comedy', 'Musical']","[4082, 1452, 6684, 5487]",['mel brooks']
+2301,"['Comedy', 'Musical']","[15100, 1511, 360, 4747, 1932, 1452, 6800, 11382, 4282, 4924]",['mel brooks']
+2303,"['Drama', 'Musical']","[2144, 15138, 1925, 510, 360, 8904, 8941, 5230, 11070, 1553, 629, 4282, 93, 4670]","['ensemble cast', 'robert altman', 'multiple storylines']"
+2310,['Drama'],[6717],['corvallis library']
+2314,['Drama'],"[1136, 6717]","['corvallis library', 'nudity (full frontal)']"
+2328,"['Horror', 'Western']","[42, 595, 62, 119]","['gothic', 'vampire']"
+2331,"['Comedy', 'Drama', 'Romance']","[1136, 587]",['nudity (full frontal)']
+2335,['Comedy'],"[8929, 196, 4861, 916]",['sport:american football']
+2355,"['Adventure', 'Animation', 'Children', 'Comedy']","[4772, 1925, 900, 10376, 362, 587, 5098, 465, 2293, 7705, 2235, 7741]","['dinner', 'animation', 'disney animated feature']"
+2373,"['Action', 'Adventure', 'Fantasy']","[1186, 1789, 146]",['arnold schwarzenegger']
+2376,"['Action', 'Adventure', 'Thriller']","[9015, 657, 1783, 9816, 634, 1023]","['murder', 'james bond', 'assassin', '007 (series)', 'killer as protagonist']"
+2387,"['Comedy', 'Crime']","[595, 93, 374]","['nudity (topless)', 'dark comedy']"
+2388,"['Drama', 'Romance']",[554],['gay']
+2393,"['Action', 'Drama', 'Romance', 'Sci-Fi']","[9729, 420, 2950, 5035, 6156, 1614, 366, 145, 2579, 1783, 4699, 13883, 10877, 1023]","['star trek', 'noise in space']"
+2395,"['Comedy', 'Drama']","[4353, 651, 396, 910, 528, 4496, 1554, 6675, 21, 23, 9884, 7836, 10925, 4271, 2742, 4282, 2239, 5189, 2513, 8914, 4446, 1382]",['high school']
+2396,"['Comedy', 'Drama', 'Romance']","[2372, 16070, 1320, 447, 6800, 13009, 244, 213, 5983, 247, 8604, 13407]",['oscar (best supporting actress)']
+2401,['Western'],"[6715, 775]","['not corv lib', 'clint eastwood']"
+2409,"['Action', 'Drama']","[226, 3, 196, 1426, 9779, 4341, 4342, 1783, 605]","['boxing', 'sport:boxing']"
+2410,"['Action', 'Drama']","[706, 3, 196, 5827, 1426, 883, 9779, 1783, 11066]","['boxing', 'sport:boxing']"
+2411,"['Action', 'Drama']","[196, 74, 651, 1426, 9779, 1783]",['sport:boxing']
+2412,"['Action', 'Drama']","[226, 3, 74, 2031, 1426, 9779, 1783, 473]","['boxing', 'sport:boxing']"
+2413,"['Comedy', 'Mystery']","[352, 1091, 396, 7407, 6800, 2418, 9240, 9532, 1023]",['adapted from:game']
+2416,['Comedy'],[93],['nudity (topless)']
+2417,"['Comedy', 'Drama']",[6708],['hw drama']
+2447,"['Comedy', 'Drama']","[8929, 1858, 196, 1450, 910, 1394, 916, 2875, 93]",['sport:american football']
+2457,"['Action', 'Comedy']",[595],['nudity (rear)']
+2461,"['Comedy', 'Horror', 'Thriller']",[54],['serial killer']
+2469,"['Comedy', 'Drama']","[5733, 8457, 1450, 13, 2261]",['afternoon section']
+2476,"['Action', 'War']","[93, 775]","['nudity (topless)', 'clint eastwood']"
+2482,"['Comedy', 'Romance']","[6713, 6715]","['not corv lib', 'hw comedy']"
+2491,"['Comedy', 'Romance']","[5512, 6713]","['food', 'hw comedy']"
+2513,['Horror'],"[1224, 4413, 189]",['author:stephen king']
+2517,['Horror'],"[1224, 4413]",['author:stephen king']
+2518,['Comedy'],[93],['nudity (topless)']
+2520,['Drama'],[244],['oscar (best supporting actress)']
+2524,"['Action', 'Adventure', 'Drama', 'Thriller']","[6800, 761, 2820]",['oscar (best cinematography)']
+2527,"['Action', 'Sci-Fi', 'Thriller', 'Western']","[6176, 3313, 6800, 157]",['michael crichton']
+2528,"['Action', 'Adventure', 'Sci-Fi']","[24, 161, 10376, 93]",['nudity (topless)']
+2538,['Documentary'],[6717],['corvallis library']
+2549,"['Action', 'Sci-Fi']","[655, 7407]","['adapted from:game', 'video game adaptation']"
+2550,['Horror'],"[80, 42, 1925]",['gothic']
+2561,"['Crime', 'Thriller']","[14102, 775]",['clint eastwood']
+2563,['Drama'],"[2153, 93, 5717, 199]",['nudity (topless)']
+2567,['Comedy'],"[1121, 603, 2261, 9381]",['san francisco']
+2570,"['Drama', 'Romance']",[93],['nudity (topless)']
+2572,"['Comedy', 'Romance']","[1120, 1565, 3717, 1450, 1451, 9002, 4938, 9298, 730, 2875, 1853, 1469]",['playwright:shakespeare']
+2582,"['Action', 'Comedy']","[5156, 686]","['kung fu', 'martial arts']"
+2583,"['Comedy', 'Drama']","[4670, 369, 2497, 1553]",['robert altman']
+2590,['Drama'],"[6800, 93]",['nudity (topless)']
+2606,"['Comedy', 'Horror']","[3386, 93]",['nudity (topless)']
+2612,"['Drama', 'Film-Noir']",[213],['oscar (best actress)']
+2622,"['Comedy', 'Fantasy']","[1061, 1320, 9002, 2444, 9298]","['adapted from:play', 'playwright:shakespeare']"
+2634,['Horror'],"[1221, 5215, 15383]",['hammer film productions']
+2639,['Drama'],[6518],['afi 100 (movie quotes)']
+2640,"['Action', 'Adventure', 'Sci-Fi']","[2693, 11665, 146, 662, 167, 6323, 5557, 7736, 186, 4924, 4669, 7161, 583, 11344, 4455, 1641, 366, 7408, 501, 1783, 1785]","['based on a comic', 'dc comics', 'adapted from:comic', 'superhero', 'dc', 'franchise']"
+2641,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","[2693, 583, 167, 1641, 10635, 7408, 529, 6130, 501, 5557, 1783, 7736, 186]","['based on a comic', 'dc comics', 'adapted from:comic', 'superhero', 'dc', 'alter ego', 'franchise']"
+2642,"['Action', 'Adventure', 'Sci-Fi']","[1641, 9837, 7408, 5557, 7605, 1783, 7736, 7161, 186]","['dc comics', 'adapted from:comic', 'superhero', 'dc', 'alter ego', 'franchise']"
+2643,"['Action', 'Adventure', 'Sci-Fi']","[1124, 2693, 1641, 7408, 10292, 5557, 1783, 7736, 186]","['based on a comic', 'dc comics', 'adapted from:comic', 'superhero', 'dc', 'alter ego', 'franchise']"
+2646,['Horror'],"[42, 62]","['gothic', 'vampire']"
+2647,['Horror'],[42],['gothic']
+2648,['Horror'],"[1925, 6534, 583, 1224, 42, 4083, 6518, 12344]","['afi 100 (movie quotes)', 'afi 100 (thrills)']"
+2649,['Horror'],[42],['gothic']
+2650,['Horror'],[42],['gothic']
+2652,['Horror'],"[42, 15383]",['hammer film productions']
+2653,['Horror'],"[42, 62]","['gothic', 'vampire']"
+2655,['Horror'],"[1803, 1749]",['werewolf']
+2660,"['Horror', 'Sci-Fi']",[6534],['afi 100 (thrills)']
+2668,"['Horror', 'Sci-Fi']","[7736, 93]","['nudity (topless)', 'dc comics']"
+2677,"['Documentary', 'Musical']","[7888, 10738, 2216, 14687]",['music documentary']
+2687,"['Animation', 'Children']","[900, 14181, 1224, 362, 633]","['dinner', 'disney animated feature']"
+2688,"['Drama', 'Thriller']",[1136],['nudity (full frontal)']
+2702,['Drama'],"[93, 54, 1023]","['nudity (topless)', 'serial killer']"
+2723,"['Action', 'Adventure', 'Comedy']","[396, 501, 11630]",['want to see again']
+2728,"['Action', 'Drama', 'Romance', 'War']","[4707, 8932, 1925, 6534, 1288, 4521, 7753, 9579, 4731, 2960, 11344, 1554, 6800, 5556, 6515, 11382, 761, 1435]","['sweeping', 'lavish', 'sword and sandal', 'classical studies']"
+2729,"['Comedy', 'Drama', 'Romance']","[1061, 8935, 360, 41, 1224, 6542, 8912, 6800, 4692, 5301, 473]",['based on a book']
+2732,"['Drama', 'Romance']","[4674, 5865, 2538, 587, 1582, 6542, 6800, 2513, 1554, 11348, 6717, 318]",['janus 50']
+2745,['Drama'],"[6800, 761, 587]",['oscar (best cinematography)']
+2759,['Comedy'],"[6539, 501]",['want to see again']
+2770,['Comedy'],"[1472, 1457, 9088]",['robert downey jr']
+2774,"['Comedy', 'Romance']","[1608, 656, 6708, 375, 6715]",['not corv lib']
+2793,"['Comedy', 'Horror', 'Romance', 'Thriller']","[1749, 2912, 9013]","['werewolf', 'crappy sequel']"
+2794,['Comedy'],[93],['nudity (topless)']
+2795,['Comedy'],"[2153, 93, 62, 2709]",['nudity (topless)']
+2799,['Comedy'],"[651, 135]",['seen more than once']
+2805,"['Comedy', 'Romance']",[6713],['hw comedy']
+2810,"['Animation', 'Mystery', 'Thriller']","[712, 15689, 12330, 555, 11, 10837]",['anime']
+2820,['Drama'],"[9002, 4251, 9298, 1023]","['adapted from:play', 'playwright:shakespeare']"
+2826,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Thriller']","[6176, 8890, 2422]",['michael crichton']
+2829,"['Comedy', 'Drama']",[595],['nudity (rear)']
+2848,['Drama'],"[9002, 9298]","['adapted from:play', 'playwright:shakespeare']"
+2859,"['Documentary', 'Musical']","[1858, 678, 328, 302, 6715, 2139]",['not corv lib']
+2867,"['Comedy', 'Horror']","[2667, 93, 62, 119]",['vampire']
+2877,"['Drama', 'Musical']","[360, 1706, 11477, 4282, 1759]",['rock and roll']
+2883,"['Comedy', 'Drama']",[93],['nudity (topless)']
+2912,"['Crime', 'Drama', 'Thriller']","[6800, 651]",['seen more than once']
+2915,['Comedy'],"[1136, 1450, 1675, 6800]",['nudity (full frontal)']
+2919,"['Drama', 'Romance', 'War']",[244],['oscar (best supporting actress)']
+2924,"['Action', 'Comedy']","[5156, 686]","['kung fu', 'martial arts']"
+2927,"['Drama', 'Romance']","[4674, 1925, 1159, 4731, 4496, 2513, 1554, 6800, 4251]",['janus 50']
+2928,['Drama'],"[747, 1061, 1911]",['based on a book']
+2929,"['Drama', 'Romance']","[137, 14506, 689, 244, 761, 4343, 473, 1822, 415]","['oscar (best cinematography)', 'oscar (best supporting actress)']"
+2933,['Drama'],[1554],['criterion']
+2944,"['Action', 'Drama', 'War']","[6534, 237, 6800, 6323, 887]",['world war ii']
+2947,"['Action', 'Adventure', 'Thriller']","[6534, 6800, 657, 7444, 662, 11171, 816, 9015, 9802, 74, 11344, 1364, 9816, 485, 618, 11372, 6518, 634, 5373, 1023]","['murder', 'bond', 'james bond', 'assassin', '007 (series)', 'killer as protagonist']"
+2948,"['Action', 'Adventure', 'Thriller']","[11171, 485, 1783, 2990, 110, 816, 657, 10420, 9015, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+2949,"['Action', 'Adventure', 'Thriller']","[11171, 485, 1783, 6800, 657, 6518, 9015, 9816, 634, 1023]","['murder', 'bond', 'james bond', 'assassin', '007 (series)', 'killer as protagonist']"
+2961,"['Comedy', 'Drama']","[1184, 587, 6717]",['corvallis library']
+2983,['Thriller'],"[1515, 9926]",['svens to see list']
+2986,"['Action', 'Crime', 'Sci-Fi']","[24, 12, 1525, 2912]",['crappy sequel']
+2988,['Drama'],"[595, 244]",['oscar (best supporting actress)']
+2989,"['Action', 'Adventure', 'Thriller']","[10145, 1783, 657, 6324, 9015, 9816, 634, 1023]","['murder', 'james bond', 'assassin', '007 (series)', 'killer as protagonist']"
+2990,"['Action', 'Adventure', 'Crime', 'Thriller']","[485, 9015, 657, 1783, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+2991,"['Action', 'Adventure', 'Thriller']","[485, 1783, 657, 1043, 9015, 9816, 634, 11326, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+2993,"['Action', 'Adventure', 'Thriller']","[7808, 9632, 485, 4521, 5834, 1783, 657, 2611, 662, 9015, 9816, 634, 8957, 9118, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+3000,"['Action', 'Adventure', 'Animation', 'Drama', 'Fantasy']","[1802, 1675, 272, 146, 5655, 4250, 1435, 5556, 4292, 712, 5833, 8904, 74, 459, 15181, 11344, 11477, 12889, 473, 740, 2538, 1133, 1134, 7026, 4342, 15097]",['studio ghibli']
+3005,['Thriller'],"[8368, 746, 587, 2261]",['afternoon section']
+3007,['Documentary'],[6717],['corvallis library']
+3008,"['Drama', 'Sci-Fi']","[4358, 5012, 629, 16091, 4349, 510, 415]","['ensemble cast', 'multiple storylines']"
+3015,['Thriller'],[6176],['michael crichton']
+3022,"['Comedy', 'War']","[1925, 1610, 781, 2929, 4082, 1140, 348]",['buster keaton']
+3028,['Comedy'],"[5129, 9002, 587, 9298]","['adapted from:play', 'playwright:shakespeare']"
+3033,"['Comedy', 'Sci-Fi']","[7, 10376, 9676, 1452, 1932, 944, 1457, 145, 6099, 3636, 55, 10877, 446]",['noise in space']
+3035,"['Comedy', 'Drama', 'War']","[2960, 3196, 237]",['world war ii']
+3051,['Drama'],[6708],['hw drama']
+3066,"['Action', 'Drama', 'War']",[237],['world war ii']
+3072,"['Comedy', 'Romance']","[418, 706, 3748, 7044, 2958, 369, 50, 4082, 244, 213, 13014, 6518, 1720]",['afi 100 (movie quotes)']
+3082,"['Action', 'Thriller']","[485, 237, 1295, 6800, 657, 2611, 9015, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+3095,['Drama'],"[1224, 137, 10920, 781, 6800, 6515, 244, 4083, 6102]","['usa film registry', 'oscar (best directing)', 'oscar (best supporting actress)', 'afi 100']"
+3100,['Drama'],"[6800, 761, 3420, 583]",['oscar (best cinematography)']
+3113,"['Action', 'Thriller']","[1186, 195, 2185, 1745, 5012, 93]",['arnold schwarzenegger']
+3116,['Drama'],[6708],['hw drama']
+3129,"['Comedy', 'Drama']","[4130, 61, 1925, 2399]",['uma thurman']
+3135,['Drama'],[6715],['not corv lib']
+3138,['Drama'],"[113, 196]",['baseball']
+3141,['Drama'],"[9147, 9228, 125]",['sequel']
+3145,['Drama'],[1136],['nudity (full frontal)']
+3152,['Drama'],"[1582, 2960, 2513, 11345, 244, 10932, 340, 11448, 4731, 2782]",['oscar (best supporting actress)']
+3171,['Drama'],"[6715, 213]",['not corv lib']
+3173,['Drama'],"[6800, 93]",['nudity (topless)']
+3181,['Drama'],"[1320, 9002, 9298, 83, 11382, 4666, 93]","['adapted from:play', 'playwright:shakespeare']"
+3188,['Documentary'],[113],['baseball']
+3196,"['Drama', 'War']","[6800, 219, 4564, 237]",['world war ii']
+3203,['Thriller'],[595],['nudity (rear)']
+3205,['Horror'],[42],['gothic']
+3213,"['Animation', 'Children']","[1641, 9547, 7408, 5557, 1783, 7736, 186]","['dc comics', 'adapted from:comic', 'superhero', 'dc', 'alter ego', 'franchise']"
+3219,['Thriller'],[93],['nudity (topless)']
+3226,['Documentary'],[14687],['music documentary']
+3243,['Comedy'],"[1331, 910]",['high school']
+3251,"['Drama', 'Mystery']","[9298, 4854]",['adapted from:play']
+3253,['Comedy'],"[328, 1450, 9482, 2731, 501, 55, 2875, 380, 1759]",['rock and roll']
+3264,"['Action', 'Comedy', 'Horror']","[374, 62]",['dark comedy']
+3265,"['Action', 'Crime', 'Drama', 'Thriller']","[1954, 14700, 2701, 686, 6800, 1554, 1974]",['martial arts']
+3292,['Film-Noir'],[2927],['tom']
+3296,['Drama'],"[9762, 4772, 1925, 910, 10256, 14522]",['high school']
+3326,"['Comedy', 'Sci-Fi']","[93, 11630]",['nudity (topless)']
+3334,"['Crime', 'Drama', 'Film-Noir', 'Thriller']","[2688, 587, 244, 2685]",['oscar (best supporting actress)']
+3338,['Documentary'],[1554],['criterion']
+3343,"['Comedy', 'Drama', 'Romance']",[1554],['criterion']
+3357,"['Drama', 'Romance']",[4578],['ruffian']
+3361,"['Comedy', 'Drama', 'Romance']","[196, 6800, 113, 4082, 93]",['baseball']
+3368,"['Romance', 'Western']",[2960],['oscar (best supporting actor)']
+3371,['Drama'],[761],['oscar (best cinematography)']
+3398,"['Children', 'Comedy', 'Musical']","[629, 4198]",['multiple storylines']
+3399,"['Children', 'Comedy']",[651],['seen more than once']
+3405,"['Action', 'Drama']",[1554],['criterion']
+3420,"['Drama', 'Thriller']","[2393, 1364, 6708, 1596]",['hw drama']
+3422,"['Comedy', 'Romance']","[651, 1908]",['seen more than once']
+3423,['Drama'],[6713],['hw comedy']
+3428,['Drama'],[3],['boxing']
+3447,['Drama'],"[249, 761, 213, 1911]",['oscar (best cinematography)']
+3459,"['Drama', 'Horror']",[42],['gothic']
+3462,"['Comedy', 'Romance']","[13600, 1925, 781, 6800, 8912, 4082, 4083]","['usa film registry', 'bfi classic']"
+3466,"['Comedy', 'Fantasy']","[1472, 12361, 605]",['robert downey jr']
+3467,"['Drama', 'Western']","[2960, 761, 213]",['oscar (best cinematography)']
+3468,['Drama'],"[587, 2828, 6800, 10420, 761]",['oscar (best cinematography)']
+3471,"['Adventure', 'Drama', 'Sci-Fi']","[2947, 2564, 1925, 6534, 6533, 6800, 145, 6519, 167, 2753, 583, 2398, 355, 357, 1126, 4083, 6515, 887, 761, 4858, 6527]","['afi 100 (thrills)', 'afi 100']"
+3475,"['Drama', 'Romance']","[137, 4083, 761]","['oscar (best cinematography)', 'oscar (best directing)', 'afi 100']"
+3494,"['Adventure', 'Western']",[219],['oscar (best actor)']
+3499,"['Drama', 'Horror', 'Thriller']","[6277, 742, 1224, 9194, 11723, 15084, 6676, 213, 662, 8917, 5752, 4413, 189]",['author:stephen king']
+3504,"['Comedy', 'Drama']","[473, 1822, 9042, 1043, 244, 501, 213, 2196, 6103, 55, 4083, 219, 6518, 9374]","['afi 100 (movie quotes)', 'oscar (best supporting actress)', 'afi 100']"
+3506,"['Comedy', 'Drama']","[8929, 916]",['sport:american football']
+3508,"['Action', 'Adventure', 'Drama', 'Western']","[775, 458, 1101, 6715, 605]",['not corv lib']
+3510,"['Drama', 'Thriller']","[1141, 651, 13]",['seen more than once']
+3525,['Comedy'],[93],['nudity (topless)']
+3545,"['Musical', 'War']","[10240, 2144, 4962, 7110, 137, 9738, 2960, 6800, 689, 213, 4949, 761]","['oscar (best cinematography)', 'oscar (best directing)']"
+3547,"['Comedy', 'Drama']","[554, 102]",['gay']
+3551,"['Crime', 'Drama', 'Thriller']","[1925, 6534, 6800, 6518, 93]","['afi 100 (movie quotes)', 'afi 100 (thrills)']"
+3557,"['Mystery', 'Thriller']",[2399],['uma thurman']
+3559,"['Comedy', 'Drama', 'Romance']","[348, 493]",['buster keaton']
+3563,"['Action', 'Horror']","[7408, 42]","['gothic', 'adapted from:comic']"
+3578,"['Action', 'Adventure', 'Drama']","[521, 651, 6800, 2578, 15894, 535, 154, 1435, 5023, 419, 1060, 4007, 170, 566, 8502, 11448, 4408, 8891, 2371, 10694, 10823, 583, 7753, 10830, 8917, 473, 219, 351, 4707, 2406, 1382, 5994, 9579, 11382, 247, 4342, 15097, 7675]","['classical studies', 'sword and sandal']"
+3598,"['Crime', 'Drama', 'Romance', 'Thriller']","[1320, 9002, 9298, 4251, 1023]","['adapted from:play', 'playwright:shakespeare']"
+3604,['Musical'],[9298],['adapted from:play']
+3615,"['Animation', 'Children']",[362],['disney animated feature']
+3622,['Comedy'],"[1452, 5783]",['mel brooks']
+3631,['Comedy'],[375],['lesbian']
+3633,"['Action', 'Adventure', 'Thriller']","[485, 1783, 10635, 657, 9015, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+3635,"['Action', 'Adventure', 'Thriller']","[11171, 9796, 485, 1783, 6800, 657, 9015, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+3637,['Drama'],[9926],['svens to see list']
+3638,"['Action', 'Adventure', 'Romance', 'Sci-Fi', 'Thriller']","[9796, 485, 1382, 9847, 9514, 1783, 11535, 11344, 145, 657, 13875, 662, 9015, 9816, 634, 446, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+3639,"['Action', 'Adventure', 'Thriller']","[485, 1783, 887, 657, 1043, 1364, 9015, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+3654,"['Action', 'Adventure', 'Drama', 'War']","[6308, 1925, 6534, 521, 10635, 237, 887]","['literary adaptation', 'world war ii']"
+3668,"['Drama', 'Romance']","[1320, 2153, 9002, 3081, 9298, 2614, 761]","['adapted from:play', 'playwright:shakespeare']"
+3671,"['Comedy', 'Western']","[263, 9482, 4747, 1932, 7697, 12820, 7459, 4772, 5413, 1452, 944, 6324, 71, 5466, 605, 5477, 1511, 360, 11117, 5487, 4082, 1524, 380]",['mel brooks']
+3672,"['Adventure', 'Children']",[7704],['animal:dog']
+3679,['Documentary'],"[14690, 8142, 8147, 1398, 14687]",['music documentary']
+3680,['Documentary'],"[7518, 2646, 14687]",['music documentary']
+3684,"['Drama', 'Romance']","[6800, 587, 2444, 2261]",['afternoon section']
+3685,"['Comedy', 'Drama', 'Romance']","[6800, 244, 9013, 374, 214, 1023]",['oscar (best supporting actress)']
+3688,['Comedy'],"[1450, 910, 111]",['high school']
+3698,"['Action', 'Adventure', 'Sci-Fi']","[1186, 134, 1224, 1706, 24, 4413]","['author:stephen king', 'arnold schwarzenegger']"
+3705,"['Action', 'Comedy', 'Romance']",[595],['nudity (rear)']
+3707,"['Drama', 'Romance']","[706, 595, 93]",['nudity (topless)']
+3716,"['Action', 'Comedy', 'Crime', 'Drama']",[69],['drugs']
+3719,"['Comedy', 'Romance']","[1320, 9002, 587, 9298]","['adapted from:play', 'playwright:shakespeare']"
+3723,['Drama'],"[6308, 1320, 9002, 9298, 4251, 1023]","['adapted from:play', 'playwright:shakespeare']"
+3739,"['Comedy', 'Romance']",[1554],['criterion']
+3747,['Drama'],"[6708, 85]",['hw drama']
+3760,['Comedy'],"[7739, 93]",['nudity (topless)']
+3775,"['Animation', 'Children', 'Musical']",[362],['disney animated feature']
+3776,"['Animation', 'Children', 'Musical']","[5792, 362]",['disney animated feature']
+3789,['Drama'],"[6715, 187]",['not corv lib']
+3793,"['Action', 'Adventure', 'Sci-Fi']","[644, 2693, 651, 6800, 1940, 2456, 10396, 5151, 161, 5543, 938, 6699, 14506, 186, 60, 583, 74, 985, 11739, 1637, 366, 7408, 1785]",['based on a comic']
+3795,['Drama'],"[629, 510, 4358]","['ensemble cast', 'multiple storylines']"
+3796,"['Romance', 'Thriller']","[5264, 587, 765]",['jude law']
+3813,['Drama'],"[1925, 587, 6708, 6715, 61, 10494]",['not corv lib']
+3819,['Comedy'],"[352, 360, 41, 5512, 396, 2134, 6711, 6715]",['not corv lib']
+3820,['Children'],[9360],['adapted from:book series']
+3821,['Comedy'],[125],['sequel']
+3836,"['Action', 'Comedy', 'War']","[6800, 6717, 887]",['corvallis library']
+3841,"['Action', 'Comedy']",[1472],['robert downey jr']
+3854,"['Drama', 'Romance', 'War']","[940, 375]",['lesbian']
+3863,"['Drama', 'Horror', 'Thriller']","[176, 54]",['serial killer']
+3871,"['Drama', 'Western']","[352, 8912, 6515, 4083, 6518, 1911, 761, 5948]","['bfi classic', 'afi 100 (movie quotes)', 'afi 100']"
+3875,['Horror'],"[7652, 15077, 1382, 15140, 1385, 2538, 1879, 662, 15383, 4570, 699, 1373, 7071]",['hammer film productions']
+3877,"['Action', 'Adventure', 'Fantasy']",[7736],['dc comics']
+3889,"['Action', 'Adventure', 'Fantasy']",[2912],['crappy sequel']
+3915,['Drama'],"[1811, 1426, 3, 1318]","['boxing', 'sport:boxing']"
+3928,"['Comedy', 'Horror']","[42, 4082]",['gothic']
+3929,['Comedy'],"[1554, 6717]",['corvallis library']
+3936,"['Horror', 'Musical', 'Thriller']",[761],['oscar (best cinematography)']
+3937,"['Sci-Fi', 'Thriller']","[6176, 12]",['michael crichton']
+3953,"['Comedy', 'Romance']","[1136, 1553, 2261]","['afternoon section', 'robert altman', 'nudity (full frontal)']"
+3964,"['Animation', 'Children']","[15786, 362, 900, 15750]","['dinner', 'disney animated feature']"
+3972,"['Action', 'Comedy']","[11456, 5666, 13890, 5156, 6597, 10725, 11433, 1709, 686, 2164, 4283, 125]",['kung fu']
+3982,['Drama'],"[5512, 629, 510]","['food', 'ensemble cast', 'multiple storylines']"
+3983,['Drama'],"[354, 8943, 752, 501, 90]",['want to see again']
+3984,"['Action', 'Adventure', 'Thriller']","[485, 9015, 657, 1783, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+3986,"['Action', 'Sci-Fi', 'Thriller']","[1089, 1186, 236, 583]",['arnold schwarzenegger']
+3988,"['Children', 'Comedy', 'Fantasy']","[352, 1888, 1061, 1224, 364, 9458, 660]",['based on a book']
+3991,"['Children', 'Comedy']","[7704, 587]",['animal:dog']
+3997,"['Adventure', 'Fantasy']","[11249, 410, 3829, 1535]",['likeilike top pick']
+4005,"['Action', 'Adventure']","[10725, 1515, 9816, 9015, 143, 8272, 657, 11094, 1783, 11326, 634, 1502, 1023]","['murder', 'james bond', 'assassin', '007 (series)', 'killer as protagonist']"
+4007,['Drama'],"[1925, 4613, 6539, 6800, 595, 6518, 219]",['afi 100 (movie quotes)']
+4016,"['Adventure', 'Animation', 'Children', 'Comedy', 'Fantasy']","[900, 7, 10376, 5289, 362, 2953, 12840, 3477, 2328]","['dinner', 'disney animated feature']"
+4020,['Thriller'],"[93, 2261]","['nudity (topless)', 'afternoon section']"
+4021,['Drama'],"[587, 10494]",['seen']
+4030,['Horror'],"[3666, 42, 62]","['gothic', 'vampire']"
+4036,"['Drama', 'Horror']","[5666, 93, 6749, 62]",['nudity (topless)']
+4051,"['Horror', 'Sci-Fi']","[5096, 5097]",['unintentional comedy']
+4072,"['Drama', 'Romance']",[9926],['svens to see list']
+4073,"['Drama', 'Romance']",[603],['san francisco']
+4089,['Comedy'],[69],['drugs']
+4095,['Drama'],"[1368, 887, 375]",['lesbian']
+4117,"['Comedy', 'Drama', 'War']",[237],['world war ii']
+4142,"['Action', 'Adventure', 'Drama', 'Thriller']","[9256, 9360, 4741]",['adapted from:book series']
+4149,['Comedy'],"[595, 93, 1511]",['nudity (topless)']
+4155,"['Drama', 'Romance']",[603],['san francisco']
+4167,['Thriller'],[93],['nudity (topless)']
+4178,['Drama'],"[1224, 1061]",['based on a book']
+4190,['Drama'],"[7744, 219, 244]",['oscar (best supporting actress)']
+4192,['Drama'],"[7753, 11382]","['sword and sandal', 'classical studies']"
+4193,['Musical'],[9298],['adapted from:play']
+4220,['Comedy'],"[9536, 161, 8929, 13924, 196, 9096, 916, 2295]",['sport:american football']
+4221,['Comedy'],[8929],['sport:american football']
+4234,"['Drama', 'Thriller']","[5281, 6308, 110]",['literary adaptation']
+4239,['Drama'],"[13697, 69, 3947, 1140, 59]",['drugs']
+4241,"['Animation', 'Children']",[655],['video game adaptation']
+4273,['Drama'],"[587, 10494]",['seen']
+4274,"['Drama', 'Romance']",[761],['oscar (best cinematography)']
+4276,['Comedy'],"[6713, 4082, 6715, 3950]","['not corv lib', 'hw comedy']"
+4279,['Crime'],"[1472, 606, 1023]",['robert downey jr']
+4285,"['Comedy', 'Romance']","[2261, 9270]",['afternoon section']
+4300,['Drama'],"[6715, 6708]","['not corv lib', 'hw drama']"
+4304,['Documentary'],[651],['seen more than once']
+4322,['Drama'],"[113, 196, 1558, 606]",['baseball']
+4338,"['Drama', 'War']","[2960, 237]",['world war ii']
+4342,"['Drama', 'Romance']",[554],['gay']
+4345,['Drama'],"[93, 678]",['nudity (topless)']
+4346,"['Drama', 'Musical', 'Romance']",[6708],['hw drama']
+4349,"['Comedy', 'War']","[6308, 1224, 1136, 6800, 6488, 9755]",['literary adaptation']
+4355,"['Action', 'Drama']","[5211, 595, 93]",['nudity (topless)']
+4356,"['Comedy', 'Musical', 'Romance']","[387, 4804, 871, 6715, 6716]","['not corv lib', 'hw classics']"
+4366,"['Animation', 'Children', 'Fantasy']","[362, 900, 14181]","['dinner', 'disney animated feature']"
+4367,"['Action', 'Adventure']","[4448, 5223, 746, 74, 459, 7407, 14416, 369, 655, 438, 2333, 2206]","['adapted from:game', 'video game adaptation']"
+4368,['Comedy'],[9360],['adapted from:book series']
+4378,"['Comedy', 'Crime', 'Drama']","[6800, 90, 93]",['nudity (topless)']
+4380,"['Drama', 'Romance']",[651],['seen more than once']
+4388,"['Comedy', 'Horror']","[57, 1457, 125, 55]",['sequel']
+4389,['Drama'],[375],['lesbian']
+4407,"['Drama', 'Thriller', 'War']","[6715, 7683]",['not corv lib']
+4409,"['Comedy', 'Drama']","[1925, 1654, 61, 54]",['serial killer']
+4415,['Comedy'],[69],['drugs']
+4420,['Drama'],[2960],['oscar (best supporting actor)']
+4422,['Drama'],"[1153, 1925, 1382, 9926, 5865, 4907, 2670, 1554, 306, 761, 4731, 10907]",['ingmar bergman']
+4425,"['Comedy', 'Horror']","[1803, 1749]",['werewolf']
+4433,['Drama'],"[15073, 4098, 4707, 396, 1554, 244, 4279, 1435]",['oscar (best supporting actress)']
+4438,['Action'],"[5156, 4297, 458, 7372, 686, 497]","['kung fu', 'martial arts']"
+4440,"['Action', 'Thriller']","[5156, 8887, 7372, 686, 15767]","['kung fu', 'martial arts']"
+4441,['Action'],"[5156, 253, 686, 15767]","['kung fu', 'martial arts']"
+4444,"['Action', 'Crime']","[7372, 5156, 686, 747]","['kung fu', 'martial arts']"
+4446,"['Adventure', 'Animation', 'Fantasy', 'Sci-Fi']","[583, 712, 9226, 1773, 1645, 7407, 655, 366, 2293, 1941, 2330]","['adapted from:game', 'video game adaptation']"
+4464,"['Comedy', 'Drama', 'Romance']","[1224, 244]",['oscar (best supporting actress)']
+4487,"['Drama', 'Romance']",[2261],['afternoon section']
+4514,['Horror'],"[1803, 1749]",['werewolf']
+4517,"['Horror', 'Mystery', 'Thriller']",[6708],['hw drama']
+4518,['Horror'],"[42, 7974]",['gothic']
+4522,"['Mystery', 'Romance', 'Thriller']",[93],['nudity (topless)']
+4531,['Action'],[1186],['arnold schwarzenegger']
+4532,"['Comedy', 'Horror']","[641, 2642]",['zombie']
+4544,"['Comedy', 'Sci-Fi']",[2912],['crappy sequel']
+4558,['Comedy'],"[664, 8481, 1186, 55]",['arnold schwarzenegger']
+4565,"['Action', 'Adventure']","[10292, 1277, 686]",['martial arts']
+4573,"['Comedy', 'Drama']","[689, 93]",['nudity (topless)']
+4601,"['Drama', 'Romance']",[93],['nudity (topless)']
+4605,['Comedy'],"[8935, 360, 1065, 4746, 396, 1554, 374]",['dark comedy']
+4613,"['Action', 'Comedy', 'Crime']","[7704, 1996]",['animal:dog']
+4614,['Action'],[686],['martial arts']
+4623,['Comedy'],"[113, 196]",['baseball']
+4633,['Horror'],"[374, 711]",['dark comedy']
+4638,"['Action', 'Adventure', 'Sci-Fi']","[6176, 14371, 125, 1783]",['michael crichton']
+4646,"['Comedy', 'Drama']","[6713, 7730, 6715]","['not corv lib', 'hw comedy']"
+4652,"['Comedy', 'Horror', 'Sci-Fi']",[7736],['dc comics']
+4662,"['Comedy', 'Crime']","[380, 93]",['nudity (topless)']
+4677,"['Comedy', 'Crime']","[7704, 382]",['animal:dog']
+4686,"['Adventure', 'Comedy']",[2642],['zombie']
+4700,['Comedy'],"[1450, 603, 4462]",['san francisco']
+4701,"['Action', 'Comedy']","[5156, 7, 3341, 686, 8944, 2164]","['kung fu', 'martial arts']"
+4705,['Comedy'],[9298],['adapted from:play']
+4706,['Comedy'],[9298],['adapted from:play']
+4722,['Comedy'],[554],['gay']
+4725,"['Horror', 'Thriller']","[611, 54]",['serial killer']
+4741,"['Comedy', 'Drama']",[651],['seen more than once']
+4745,['Drama'],"[1320, 9002, 9298, 1061]","['adapted from:play', 'playwright:shakespeare', 'based on a book']"
+4753,"['Comedy', 'Horror']","[62, 119]",['vampire']
+4754,"['Horror', 'Musical', 'Mystery', 'Thriller']","[11296, 13186, 5059, 644, 1925, 5669, 7974, 1065, 2538, 11723, 6800, 15383, 4279, 4570, 7071]",['hammer film productions']
+4776,"['Crime', 'Drama', 'Thriller']","[456, 2153, 587, 219]",['oscar (best actor)']
+4788,"['Drama', 'Romance']",[4578],['ruffian']
+4802,"['Comedy', 'War']",[2889],['cary grant']
+4803,['Thriller'],"[10835, 1925, 775]",['clint eastwood']
+4805,['Drama'],"[2960, 244]","['oscar (best supporting actor)', 'oscar (best supporting actress)']"
+4806,['Drama'],[1554],['criterion']
+4834,['Comedy'],[69],['drugs']
+4849,"['Comedy', 'Drama']",[6708],['hw drama']
+4850,"['Action', 'Animation', 'Sci-Fi']",[712],['anime']
+4851,['Drama'],[6708],['hw drama']
+4886,"['Animation', 'Children', 'Comedy', 'Fantasy']","[896, 900, 901, 651, 2955, 6800, 12820, 7705, 2987, 15664, 2998, 60, 1469, 192, 583, 4939, 465, 4690, 869, 1773]",['animation']
+4912,"['Drama', 'Musical', 'Romance']","[9738, 213, 6518, 887]",['afi 100 (movie quotes)']
+4921,['Drama'],"[6200, 1061, 1224]",['based on a book']
+4945,['Crime'],[775],['clint eastwood']
+4951,"['Adventure', 'Drama', 'Thriller']","[699, 1061]",['based on a book']
+4957,"['Crime', 'Drama']",[6518],['afi 100 (movie quotes)']
+4974,['Comedy'],"[944, 1457, 910]",['high school']
+4977,['Drama'],[6717],['corvallis library']
+4978,"['Drama', 'Mystery', 'Thriller']","[4594, 6715, 6708, 8269]",['not corv lib']
+4980,"['Adventure', 'Comedy', 'Fantasy']","[499, 13, 5534, 1759]",['rock and roll']
+4995,"['Drama', 'Mystery', 'Romance']","[1925, 137, 2953, 4111, 12820, 4117, 4118, 156, 415, 5023, 4129, 1061, 6439, 4140, 560, 6324, 2371, 16073, 2511, 4690, 611, 868, 2535, 615, 620, 6515, 628, 244, 2422, 247, 633, 124]",['oscar (best picture)']
+4998,"['Adventure', 'Crime', 'Drama', 'Thriller']","[4707, 7782, 8935, 6515, 662, 10390, 761]",['oscar (best cinematography)']
+5000,"['Documentary', 'Drama', 'Romance', 'War']","[93, 9926]","['nudity (topless)', 'svens to see list']"
+5002,['Animation'],[7408],['adapted from:comic']
+5003,['Animation'],[7408],['adapted from:comic']
+5005,['Drama'],"[219, 244]","['oscar (best actor)', 'oscar (best supporting actress)']"
+5007,"['Adventure', 'Comedy', 'Thriller']",[2960],['oscar (best supporting actor)']
+5009,['Drama'],"[1426, 3]","['boxing', 'sport:boxing']"
+5015,"['Drama', 'Romance']","[1925, 1647, 6800, 213, 501, 13367, 314, 2877]",['oscar (best actress)']
+5036,['Comedy'],[244],['oscar (best supporting actress)']
+5040,"['Action', 'Adventure', 'Fantasy']","[1186, 1789, 2783]",['arnold schwarzenegger']
+5049,"['Action', 'Comedy', 'Crime', 'Drama']","[74, 172, 2235, 55, 2905, 9369, 9530, 603, 93]",['san francisco']
+5064,"['Drama', 'Thriller']","[7745, 6661, 6565, 647, 1061, 1224, 458, 459, 747, 146, 2323, 2260, 5301, 2136]",['based on a book']
+5065,"['Drama', 'Fantasy', 'Horror', 'Mystery', 'Thriller']",[11249],['likeilike top pick']
+5069,"['Action', 'Adventure', 'Animation', 'Drama', 'Fantasy']","[8449, 740, 712, 110, 27]",['anime']
+5072,"['Animation', 'Sci-Fi']","[740, 1925, 712, 13995, 12, 465]",['anime']
+5074,"['Comedy', 'Drama']","[12820, 501]",['want to see again']
+5083,"['Comedy', 'Drama']","[5512, 257, 220]",['food']
+5093,"['Action', 'Thriller']","[458, 1186, 1662, 1295]",['arnold schwarzenegger']
+5102,"['Comedy', 'Fantasy']","[651, 196]",['seen more than once']
+5109,"['Adventure', 'Animation', 'Children']","[10376, 362, 900, 7022]","['dinner', 'disney animated feature']"
+5110,"['Comedy', 'Crime']","[232, 6324, 93]",['nudity (topless)']
+5114,['Drama'],"[761, 10891, 244]","['oscar (best cinematography)', 'oscar (best supporting actress)']"
+5123,['Comedy'],[213],['oscar (best actress)']
+5137,['Documentary'],[14687],['music documentary']
+5139,['Comedy'],"[113, 196, 2295]",['baseball']
+5141,['Comedy'],[113],['baseball']
+5143,['Western'],[5557],['alter ego']
+5144,['Western'],[5557],['alter ego']
+5145,"['Comedy', 'Drama', 'Romance']","[4674, 360, 5834, 8941, 1554, 4692, 4282]",['janus 50']
+5147,['Drama'],"[4674, 1925, 1702, 5865, 587, 1582, 5230, 4464, 8912, 1554, 306, 6800, 2670, 11448, 1277, 2136, 669, 4446]","['janus 50', 'ingmar bergman']"
+5151,"['Comedy', 'Romance']","[603, 93]","['nudity (topless)', 'san francisco']"
+5160,"['Action', 'Horror', 'Thriller']","[641, 2642]",['zombie']
+5161,"['Drama', 'Romance']",[93],['nudity (topless)']
+5169,['Film-Noir'],[2927],['tom']
+5195,['Horror'],"[641, 2642]",['zombie']
+5210,['Horror'],[2642],['zombie']
+5219,"['Action', 'Horror', 'Sci-Fi', 'Thriller']","[641, 4906, 2315, 747, 1294, 655, 7407, 2642, 9847, 571]",['video game adaptation']
+5225,"['Drama', 'Romance']","[651, 528, 6802, 415, 2848, 41, 2742, 55, 15160, 4282, 2490, 2239, 7880, 587, 2513, 8401, 473, 8922, 12909, 5230, 11249, 2422, 4860]",['likeilike top pick']
+5226,"['Drama', 'Romance']","[8929, 916]",['sport:american football']
+5229,['Comedy'],[554],['gay']
+5283,['Comedy'],"[10376, 1450, 93]",['nudity (topless)']
+5288,"['Documentary', 'War']","[4741, 5097, 238, 8142, 8178]",['unintentional comedy']
+5289,"['Drama', 'Film-Noir']",[2927],['tom']
+5299,"['Comedy', 'Romance']","[4354, 4516, 1222, 651, 1646, 1845, 2518, 55, 892, 415]",['seen more than once']
+5303,"['Comedy', 'Romance']",[2261],['afternoon section']
+5310,"['Comedy', 'Horror']",[6713],['hw comedy']
+5319,"['Crime', 'Drama', 'Mystery', 'Thriller']","[1000, 6715, 6711, 8279]",['not corv lib']
+5323,"['Horror', 'Sci-Fi', 'Thriller']","[145, 1783, 2181, 7]",['slasher']
+5327,['Drama'],"[6800, 9926]",['svens to see list']
+5335,"['Comedy', 'Romance']",[1136],['nudity (full frontal)']
+5349,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","[2401, 8386, 14562, 14181, 1222, 6699, 651, 7408, 2672, 5557, 56, 985, 186, 125]","['alter ego', 'superhero', 'adapted from:comic']"
+5353,"['Comedy', 'Drama']",[244],['oscar (best supporting actress)']
+5354,['Comedy'],[244],['oscar (best supporting actress)']
+5356,"['Horror', 'Sci-Fi']","[5096, 5097]",['unintentional comedy']
+5368,"['Drama', 'Romance', 'War']","[4674, 1554]",['janus 50']
+5380,"['Comedy', 'Drama', 'Romance']","[5188, 6308, 3269, 359, 5614, 9298, 730, 5183]",['literary adaptation']
+5385,['Documentary'],"[14687, 1925, 310, 1759]","['music documentary', 'rock and roll']"
+5391,['Drama'],"[265, 4366, 5104, 629, 510]","['ensemble cast', 'multiple storylines']"
+5392,"['Comedy', 'Drama', 'Romance']","[6715, 6716]","['not corv lib', 'hw classics']"
+5398,['Drama'],"[1426, 6715, 6708]","['not corv lib', 'sport:boxing']"
+5413,['Horror'],"[641, 2642]",['zombie']
+5421,['Drama'],"[651, 885]",['seen more than once']
+5426,['Western'],[9926],['svens to see list']
+5428,['Comedy'],[69],['drugs']
+5435,['Western'],[6715],['not corv lib']
+5436,['Comedy'],[1554],['criterion']
+5440,['Western'],[761],['oscar (best cinematography)']
+5442,"['Action', 'Comedy', 'Crime']","[9360, 9516, 1023]",['adapted from:book series']
+5444,"['Animation', 'Children']","[900, 901, 167, 10376, 1831, 362, 1642, 150]","['dinner', 'disney animated feature']"
+5450,['Comedy'],[651],['seen more than once']
+5459,"['Action', 'Comedy', 'Sci-Fi']","[2912, 1194, 14414, 6800, 125]","['crappy sequel', 'sequel']"
+5466,"['Comedy', 'Drama', 'Romance']","[587, 10494]",['seen']
+5476,"['Horror', 'Thriller']","[2181, 1783]",['slasher']
+5506,"['Crime', 'Drama', 'Mystery', 'Thriller']",[775],['clint eastwood']
+5517,"['Crime', 'Thriller']","[587, 10494]",['seen']
+5525,"['Comedy', 'Drama', 'Romance']","[5512, 587]",['food']
+5530,"['Comedy', 'Drama', 'Fantasy']",[6708],['hw drama']
+5540,"['Action', 'Adventure', 'Fantasy']","[354, 7753, 11382, 5689, 8890]","['sword and sandal', 'classical studies']"
+5542,"['Action', 'Horror']","[641, 2642, 583]",['zombie']
+5552,"['Drama', 'Horror', 'Sci-Fi']","[42, 15383]",['hammer film productions']
+5555,['Horror'],"[42, 1803, 1749]",['werewolf']
+5560,"['Comedy', 'Musical']",[1554],['criterion']
+5569,"['Crime', 'Horror', 'Thriller']",[1136],['nudity (full frontal)']
+5593,"['Crime', 'Drama', 'Thriller']","[5195, 54]",['serial killer']
+5599,"['Drama', 'Romance']",[761],['oscar (best cinematography)']
+5601,"['Children', 'Drama']","[761, 2178, 2647]",['oscar (best cinematography)']
+5605,['Drama'],"[1554, 93]",['nudity (topless)']
+5617,"['Comedy', 'Drama', 'Romance']","[9312, 3873, 3267, 387, 1608, 10825, 1630, 587, 651, 5264, 6800, 10494, 927]",['seen']
+5618,"['Adventure', 'Animation', 'Children', 'Fantasy']","[896, 1925, 4746, 272, 5264, 146, 6800, 5655, 15896, 11289, 669, 2597, 4521, 4139, 2614, 2998, 11446, 60, 4924, 6717, 66, 196, 712, 459, 15181, 207, 11344, 465, 11477, 12889, 4700, 5727, 740, 1513, 1133, 1134, 7026, 5876, 4342]",['studio ghibli']
+5625,"['Drama', 'Romance']","[587, 6708]",['hw drama']
+5632,['Drama'],[501],['want to see again']
+5637,['Drama'],[93],['nudity (topless)']
+5644,['Drama'],"[113, 6515, 6518]",['afi 100 (movie quotes)']
+5649,['Horror'],"[1925, 1382, 42, 8917, 662, 15383, 11193, 4570, 699, 62]",['hammer film productions']
+5666,"['Comedy', 'Drama', 'Romance', 'Thriller']","[554, 6308]",['literary adaptation']
+5689,"['Crime', 'Drama']",[1136],['nudity (full frontal)']
+5690,"['Animation', 'Drama', 'War']","[10891, 6297, 10906, 6298, 10907, 6301, 804, 169, 1079, 11448, 9148, 712, 6988, 207, 6749, 4446, 10718, 352, 740, 1133, 1134, 237, 238, 2675, 15091, 1149]",['studio ghibli']
+5691,"['Action', 'Horror']","[2181, 1783]",['slasher']
+5697,['Horror'],[2181],['slasher']
+5712,"['Mystery', 'Thriller']","[6800, 9926]",['svens to see list']
+5715,['Horror'],[2181],['slasher']
+5725,"['Drama', 'Romance']",[4381],['not available from netflix']
+5731,['Horror'],[1136],['nudity (full frontal)']
+5761,['Western'],[5557],['alter ego']
+5764,"['Drama', 'Horror', 'Sci-Fi', 'Thriller']",[6176],['michael crichton']
+5766,['Horror'],[2181],['slasher']
+5769,"['Comedy', 'Romance']",[1136],['nudity (full frontal)']
+5771,"['Horror', 'Thriller']",[2181],['slasher']
+5774,"['Horror', 'Sci-Fi']",[2642],['zombie']
+5785,"['Action', 'Comedy']",[651],['seen more than once']
+5796,"['Action', 'Adventure', 'Comedy']","[9088, 485, 5035, 1783, 61, 11326]",['bond']
+5825,"['Drama', 'Romance', 'War']","[4674, 2597, 528, 2513, 1554, 8912, 6800, 2782]",['janus 50']
+5841,"['Adventure', 'Romance']","[369, 93]",['nudity (topless)']
+5844,['Horror'],[2181],['slasher']
+5872,"['Action', 'Adventure', 'Thriller']","[485, 1783, 2577, 15378, 657, 596, 9015, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+5875,['Drama'],[629],['multiple storylines']
+5888,"['Action', 'Crime', 'Drama']",[4578],['ruffian']
+5889,"['Drama', 'Romance']",[4578],['ruffian']
+5901,"['Crime', 'Drama']",[69],['drugs']
+5907,['Drama'],"[427, 4381]",['not available from netflix']
+5911,['Documentary'],"[2139, 1759]",['rock and roll']
+5927,"['Comedy', 'Musical']",[9298],['adapted from:play']
+5936,['Drama'],[1553],['robert altman']
+5944,"['Action', 'Drama', 'Sci-Fi', 'Thriller']","[420, 2950, 5035, 6156, 366, 145, 2579, 11508, 1783]",['star trek']
+5963,['Drama'],[9926],['svens to see list']
+5971,"['Animation', 'Children', 'Fantasy']","[387, 740, 1925, 901, 2694, 712, 1133, 1134, 272, 496, 7026, 146, 752, 5655, 12889, 4250, 12411, 6302]",['studio ghibli']
+5974,"['Adventure', 'Fantasy']","[761, 605]",['oscar (best cinematography)']
+5987,"['Comedy', 'Crime', 'Drama']",[765],['jude law']
+5994,"['Adventure', 'Drama']","[1224, 8927]",['author:charles dickens']
+5998,"['Horror', 'Thriller']",[5097],['unintentional comedy']
+6039,"['Comedy', 'Romance']","[1136, 587, 5487]",['nudity (full frontal)']
+6064,"['Drama', 'Film-Noir']","[6800, 4970, 1426]",['sport:boxing']
+6067,"['Comedy', 'Crime']","[587, 10494]",['seen']
+6075,['Drama'],[4381],['not available from netflix']
+6088,"['Comedy', 'Sci-Fi']",[5557],['alter ego']
+6107,"['Drama', 'War']",[237],['world war ii']
+6118,['Drama'],[9926],['svens to see list']
+6133,['Drama'],[4381],['not available from netflix']
+6148,"['Drama', 'Horror', 'Thriller']",[1554],['criterion']
+6159,"['Drama', 'Romance']",[501],['want to see again']
+6178,"['Drama', 'Romance']",[244],['oscar (best supporting actress)']
+6182,['Comedy'],[4818],['opal']
+6186,"['Action', 'Drama', 'War']",[11249],['likeilike top pick']
+6198,"['Crime', 'Drama']",[4381],['not available from netflix']
+6202,"['Comedy', 'Drama', 'Romance']",[6717],['corvallis library']
+6214,"['Crime', 'Drama', 'Horror', 'Mystery', 'Thriller']","[1136, 609, 6800]",['nudity (full frontal)']
+6216,['Drama'],"[352, 6717]",['corvallis library']
+6217,['Drama'],"[265, 629, 510]","['ensemble cast', 'multiple storylines']"
+6223,"['Comedy', 'Crime', 'Drama']",[69],['drugs']
+6230,['Drama'],[113],['baseball']
+6234,"['Drama', 'Mystery']","[9298, 6494]",['adapted from:play']
+6251,"['Animation', 'Children']","[362, 9235, 900]","['dinner', 'disney animated feature']"
+6254,"['Comedy', 'Romance']","[137, 6800, 4082, 4818, 605]",['oscar (best directing)']
+6257,"['Documentary', 'Drama']","[4434, 9926]",['svens to see list']
+6268,"['Comedy', 'Drama', 'Romance']","[4577, 7782, 4496, 2513, 4339, 6715, 9148]",['not corv lib']
+6273,"['Drama', 'Film-Noir', 'Mystery', 'Romance']","[6800, 9926]",['svens to see list']
+6283,"['Action', 'Animation', 'Film-Noir', 'Sci-Fi', 'Thriller']","[7782, 712, 7467, 237, 1758, 4692, 6806, 4342, 8891, 4700, 11166]",['anime']
+6291,['Drama'],"[1153, 4707, 1159, 11870, 587, 4491, 651, 4279, 2744, 10494]",['seen']
+6305,"['Drama', 'Sci-Fi']","[9539, 1061, 1224, 587, 24]",['based on a book']
+6345,"['Comedy', 'Drama', 'Musical']","[9738, 510]",['ensemble cast']
+6346,['Musical'],"[4568, 1858, 1759]",['rock and roll']
+6350,"['Adventure', 'Animation', 'Children', 'Fantasy']","[896, 136, 1802, 12, 272, 6800, 146, 5655, 2597, 60, 712, 459, 740, 13419, 1133, 1134, 366, 496, 13169, 9336, 1277]",['studio ghibli']
+6351,['Drama'],"[6708, 2399]","['hw drama', 'uma thurman']"
+6366,"['Horror', 'Mystery']","[42, 62]","['gothic', 'vampire']"
+6370,"['Comedy', 'Drama', 'Romance']","[587, 10494, 510]",['ensemble cast']
+6377,"['Adventure', 'Animation', 'Children', 'Comedy']","[900, 1925, 14600, 4618, 2955, 6800, 9746, 12820, 1941, 7705, 11289, 6302, 6324, 4793, 60, 192, 3521, 583, 465, 4183, 362, 369, 7026]","['dinner', 'animation', 'disney animated feature']"
+6383,"['Action', 'Adventure', 'Crime', 'Thriller']","[2912, 5138, 15378, 6324]",['crappy sequel']
+6404,"['Comedy', 'Romance']","[360, 2513, 4674, 1554]",['janus 50']
+6405,"['Adventure', 'Children']","[900, 1925, 1224, 136, 9450, 9208]",['disney studios']
+6433,['Documentary'],[6715],['not corv lib']
+6439,"['Drama', 'War']",[237],['world war ii']
+6477,['Drama'],"[9941, 761, 213]",['oscar (best cinematography)']
+6486,"['Comedy', 'Crime', 'Drama', 'Thriller']",[2239],['netflix']
+6487,"['Drama', 'Romance']",[2239],['netflix']
+6492,['Drama'],[4578],['ruffian']
+6500,['Horror'],"[42, 62, 15383]","['gothic', 'vampire', 'hammer film productions']"
+6515,"['Crime', 'Film-Noir']",[2927],['tom']
+6516,['Drama'],[213],['oscar (best actress)']
+6523,"['Comedy', 'Romance']",[113],['baseball']
+6542,"['Comedy', 'Drama', 'War']",[4578],['ruffian']
+6564,"['Action', 'Adventure', 'Comedy', 'Romance', 'Thriller']","[15750, 746, 655, 7407, 369, 159]","['adapted from:game', 'video game adaptation']"
+6582,"['Action', 'Comedy', 'Crime', 'Thriller']",[686],['martial arts']
+6603,"['Crime', 'Drama', 'Film-Noir']",[219],['oscar (best actor)']
+6615,"['Action', 'Horror', 'Thriller']","[7713, 8373, 2181, 1783]",['slasher']
+6618,"['Action', 'Comedy']","[8386, 196, 5156, 429, 686, 7474, 1528, 249]","['kung fu', 'martial arts']"
+6620,"['Comedy', 'Drama']","[352, 2753, 2729, 587, 369, 501, 7161]",['want to see again']
+6650,"['Comedy', 'Drama']","[4674, 360, 8941, 528, 8912, 1554, 6800, 4692, 4282]",['janus 50']
+6652,['Western'],[775],['clint eastwood']
+6665,"['Horror', 'Romance']","[42, 62]","['gothic', 'vampire']"
+6673,"['Drama', 'War']",[4381],['not available from netflix']
+6678,"['Drama', 'Sci-Fi']","[24, 93]",['nudity (topless)']
+6699,['Drama'],"[6800, 2239]",['netflix']
+6707,"['Horror', 'Thriller']",[93],['nudity (topless)']
+6724,"['Children', 'Comedy', 'Drama']","[244, 9926, 8279]",['oscar (best supporting actress)']
+6731,"['Horror', 'Thriller']","[1216, 641, 9926, 2642, 12820, 8917, 662, 5752, 7610, 699, 10907]",['zombie']
+6746,['Horror'],"[5096, 5097]",['unintentional comedy']
+6754,"['Action', 'Fantasy', 'Horror']","[582, 42, 1803, 78, 7026, 6323, 1749, 534, 119, 6231, 1141, 62]",['vampire']
+6756,['Drama'],"[14163, 510]",['ensemble cast']
+6761,['Documentary'],[4818],['opal']
+6762,"['Drama', 'Romance']",[554],['gay']
+6765,"['Comedy', 'Drama', 'Romance']","[4354, 375]",['lesbian']
+6770,"['Drama', 'Romance']","[6715, 925]",['not corv lib']
+6777,['Drama'],"[219, 2260]",['oscar (best actor)']
+6786,['Drama'],[219],['oscar (best actor)']
+6792,"['Comedy', 'Drama', 'Romance']",[4578],['ruffian']
+6794,"['Children', 'Comedy']",[7704],['animal:dog']
+6808,"['Action', 'Adventure', 'War']","[6800, 237, 775]",['clint eastwood']
+6809,['Thriller'],[775],['clint eastwood']
+6812,"['Action', 'Comedy', 'Thriller']","[1279, 775]",['clint eastwood']
+6817,"['Adventure', 'Drama']","[459, 775]",['clint eastwood']
+6820,"['Horror', 'Thriller']","[7713, 1803, 1749, 910]",['werewolf']
+6827,['Comedy'],[6713],['hw comedy']
+6830,"['Film-Noir', 'Horror', 'Thriller']",[2927],['tom']
+6856,"['Drama', 'Musical']","[1135, 4083, 6515, 6518, 7418, 219]","['afi 100 (movie quotes)', 'afi 100']"
+6857,"['Action', 'Adventure', 'Animation', 'Fantasy']","[418, 712, 15689, 7474, 441]",['anime']
+6858,['Drama'],"[4674, 1925, 1159, 6056, 2538, 1554, 662, 10390, 5752, 278]",['janus 50']
+6872,"['Action', 'Horror', 'Mystery', 'Thriller']","[7496, 1706, 655, 7407, 83]","['adapted from:game', 'video game adaptation']"
+6873,"['Comedy', 'Romance']",[651],['seen more than once']
+6876,['Drama'],"[6800, 587, 10494]",['seen']
+6880,['Horror'],"[747, 54, 1023]",['serial killer']
+6889,"['Adventure', 'Animation', 'Children']",[362],['disney animated feature']
+6892,"['Comedy', 'Drama', 'Musical', 'Mystery']",[1472],['robert downey jr']
+6896,"['Documentary', 'War']","[9926, 9343]",['svens to see list']
+6924,"['Crime', 'Mystery']","[9360, 6177]",['adapted from:book series']
+6925,"['Crime', 'Mystery']","[9360, 6177]",['adapted from:book series']
+6927,"['Drama', 'Romance', 'Thriller']","[369, 587, 6708]",['hw drama']
+6959,"['Adventure', 'Fantasy', 'Sci-Fi']",[6176],['michael crichton']
+6961,['Drama'],[93],['nudity (topless)']
+6972,"['Documentary', 'Drama']",[375],['lesbian']
+6973,"['Drama', 'Romance', 'Thriller']","[2399, 587, 9070, 7803]",['uma thurman']
+6981,['Drama'],[1554],['criterion']
+6982,"['Drama', 'War']","[4674, 9926, 6988, 4496, 1554, 5556, 11448, 4731]",['janus 50']
+6984,['Drama'],"[1224, 6800, 8927]",['author:charles dickens']
+6986,"['Adventure', 'Drama']","[583, 7753, 6800, 11382, 605]","['classical studies', 'sword and sandal']"
+6990,"['Action', 'Adventure', 'Comedy', 'Crime', 'Drama']","[6176, 2153]",['michael crichton']
+6993,"['Comedy', 'Drama', 'Romance']","[1925, 2960, 752, 6800, 244, 4251, 61, 4446]","['oscar (best supporting actor)', 'oscar (best supporting actress)']"
+6995,"['Action', 'Comedy', 'Fantasy']",[1186],['arnold schwarzenegger']
+7001,"['Horror', 'Mystery', 'Sci-Fi', 'Thriller']","[161, 1925, 167, 1065, 747, 6800, 6715]",['not corv lib']
+7013,"['Drama', 'Film-Noir', 'Thriller']","[6749, 1925, 1382, 7205, 6534, 5865, 2538, 8912, 6800, 8692, 8917, 7071, 6715, 4570, 699, 6716, 669, 8671]",['hw classics']
+7034,"['Drama', 'Romance']","[651, 396, 5780, 5022, 1826, 805, 2600, 1450, 554, 1078, 1608, 587, 2513, 11870, 1888, 8941, 5230, 375, 10494]",['seen']
+7045,"['Children', 'Fantasy']",[1061],['based on a book']
+7051,['Comedy'],[6717],['corvallis library']
+7054,['Drama'],"[1224, 1061, 605]",['based on a book']
+7057,"['Comedy', 'Fantasy', 'Romance']",[761],['oscar (best cinematography)']
+7059,"['Children', 'Drama']","[6515, 244]",['oscar (best supporting actress)']
+7069,['Drama'],"[9926, 1320, 9002, 9298, 10420, 1695]","['adapted from:play', 'playwright:shakespeare', 'svens to see list']"
+7072,"['Action', 'Drama', 'Romance', 'Western']","[2960, 4083, 8912, 2295]","['bfi classic', 'afi 100']"
+7074,['Comedy'],"[4082, 348]",['buster keaton']
+7078,['Drama'],"[10523, 244, 213]",['oscar (best supporting actress)']
+7080,"['Drama', 'Musical', 'Romance']","[6800, 6518]",['afi 100 (movie quotes)']
+7087,"['Adventure', 'Drama']","[1224, 6308, 9332, 244]","['literary adaptation', 'oscar (best supporting actress)']"
+7088,"['Comedy', 'Drama', 'Romance']","[4098, 4674, 5865, 2538, 5230, 2513, 1554, 4666]",['janus 50']
+7091,['Comedy'],"[4082, 7867]",['marx brothers']
+7099,"['Adventure', 'Animation', 'Drama', 'Fantasy', 'Sci-Fi']","[1802, 272, 146, 662, 5655, 15896, 4123, 7713, 5556, 15160, 712, 459, 1504, 1382, 235, 13419, 1133, 1134, 366, 238, 13169, 7026]",['studio ghibli']
+7111,"['Drama', 'Romance']","[4521, 2538, 2960, 761, 1435, 10907, 5565]","['sweeping', 'oscar (best cinematography)', 'lavish']"
+7114,"['Drama', 'Horror', 'Thriller']","[553, 1061]",['based on a book']
+7118,"['Animation', 'Drama', 'Sci-Fi', 'War']","[712, 145]",['anime']
+7120,['Horror'],"[1749, 1598]",['werewolf']
+7132,"['Comedy', 'Musical', 'Romance']","[4082, 7867, 6717]",['marx brothers']
+7139,"['Drama', 'Romance']","[8384, 367, 6800, 11249, 501]",['likeilike top pick']
+7152,"['Horror', 'Thriller']",[6708],['hw drama']
+7155,['Comedy'],"[1307, 673, 1531, 93]",['nudity (topless)']
+7165,"['Drama', 'Musical']",[1553],['robert altman']
+7167,['Drama'],[93],['nudity (topless)']
+7187,['Comedy'],[1553],['robert altman']
+7195,"['Crime', 'Drama', 'Film-Noir']",[2927],['tom']
+7208,"['Drama', 'Horror']","[1224, 6715, 1925, 5557]","['alter ego', 'not corv lib']"
+7211,"['Comedy', 'Romance']",[4818],['opal']
+7212,"['Comedy', 'Romance']","[2889, 6542, 528, 4282, 4924]",['cary grant']
+7229,"['Comedy', 'Crime']",[6708],['hw drama']
+7236,['Sci-Fi'],"[7704, 24, 235, 14685]",['animal:dog']
+7238,"['Drama', 'War']","[4674, 1065, 5865, 6988, 8941, 1554, 10390, 4381, 10907, 1149]",['janus 50']
+7244,"['Horror', 'Sci-Fi']","[5096, 5097, 6800]",['unintentional comedy']
+7303,"['Drama', 'War']","[1224, 633, 6515, 244, 761, 9343]","['oscar (best cinematography)', 'oscar (best supporting actress)']"
+7310,['Action'],[1186],['arnold schwarzenegger']
+7327,['Drama'],"[1153, 5059, 1925, 10824, 6542, 15088, 6800, 306, 1812, 4279, 669]",['ingmar bergman']
+7331,"['Drama', 'Thriller']",[306],['ingmar bergman']
+7335,['Film-Noir'],"[1216, 15073, 4707, 7782, 8935, 2927, 1554, 662]",['tom']
+7338,"['Drama', 'War']","[10240, 4674, 1320, 9002, 1554, 9298]","['adapted from:play', 'playwright:shakespeare']"
+7346,"['Comedy', 'Romance']","[10376, 1450, 7339, 93]",['nudity (topless)']
+7354,"['Comedy', 'Drama', 'Romance']","[587, 93, 2399]","['nudity (topless)', 'uma thurman']"
+7366,"['Comedy', 'Drama', 'Romance']",[501],['want to see again']
+7374,"['Animation', 'Children', 'Comedy', 'Musical', 'Western']","[362, 5211]",['disney animated feature']
+7396,['Drama'],"[1153, 15138, 8932, 1925, 9926, 1159, 10824, 203, 1582, 6542, 1554, 306]",['ingmar bergman']
+7419,"['Comedy', 'Thriller']","[64, 2644, 374, 310, 729, 927]",['dark comedy']
+7449,"['Drama', 'Fantasy', 'Horror', 'Thriller']","[1508, 587, 11630, 2130, 2132]",['pointless']
+7458,"['Action', 'Adventure', 'Drama', 'War']","[3521, 7753, 9579, 6800, 754, 595, 2996, 6269, 11382, 7862, 7865, 8890, 4605, 4574]","['sword and sandal', 'classical studies']"
+7479,['Drama'],"[219, 237]",['world war ii']
+7480,"['Drama', 'Thriller', 'War']",[6715],['not corv lib']
+7482,"['Action', 'Crime']","[4707, 5156, 7372, 686, 143, 11344, 6324, 4342, 662, 8891]","['kung fu', 'martial arts']"
+7484,['Documentary'],"[161, 14687, 2139, 1554, 603, 1023]","['san francisco', 'music documentary']"
+7487,['Drama'],"[5154, 587, 1316, 2399]",['uma thurman']
+7493,['Drama'],[213],['oscar (best actress)']
+7521,"['Crime', 'Mystery', 'Thriller']","[1136, 595]",['nudity (full frontal)']
+7569,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","[485, 1783, 657, 11220, 9015, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+7570,"['Action', 'Adventure', 'Thriller']","[485, 1783, 657, 1364, 9015, 9816, 634, 1023]","['murder', 'james bond', 'bond', 'assassin', '007 (series)', 'killer as protagonist']"
+7573,"['Action', 'Adventure', 'Thriller']","[9632, 657, 9015, 9816, 634, 9118, 1023]","['murder', 'james bond', 'assassin', '007 (series)', 'killer as protagonist']"
+7585,"['Drama', 'Romance']","[5536, 4674, 199, 1554, 6712]",['janus 50']
+7613,['Drama'],[6708],['hw drama']
+7615,['Drama'],[375],['lesbian']
+7618,['Drama'],"[1472, 13600, 102, 15701, 93, 5534]",['robert downey jr']
+7619,['Drama'],"[6515, 244, 213]",['oscar (best supporting actress)']
+7648,['Drama'],[603],['san francisco']
+7698,"['Drama', 'Thriller']","[587, 9926, 6534]",['svens to see list']
+7700,"['Action', 'Adventure', 'Drama', 'Thriller']","[4674, 4707, 1925, 7782, 6800, 1554, 11348, 662]",['janus 50']
+7706,['Comedy'],"[7459, 6822, 4426, 6518, 7867]",['marx brothers']
+7720,"['Action', 'Adventure', 'Comedy', 'Romance']","[7745, 6308, 1925, 71, 4521, 528, 11344, 4924]",['literary adaptation']
+7757,"['Action', 'Adventure', 'Fantasy']","[6800, 7753, 11382, 583]","['classical studies', 'sword and sandal']"
+7771,['Drama'],"[761, 244, 4493]","['oscar (best cinematography)', 'oscar (best supporting actress)']"
+7787,"['Action', 'Drama', 'War']",[237],['world war ii']
+7790,"['Adventure', 'Animation', 'Children']",[3],['boxing']
+7812,"['Drama', 'Sci-Fi']","[420, 10877, 5055]",['noise in space']
+7841,"['Fantasy', 'Sci-Fi']","[1224, 9041, 6308]",['literary adaptation']
+7842,"['Drama', 'Fantasy', 'Sci-Fi']","[9360, 9041]",['adapted from:book series']
+7844,"['Action', 'Comedy']","[7391, 686, 375]",['martial arts']
+7885,['Horror'],"[595, 93, 15383]","['nudity (topless)', 'hammer film productions']"
+7886,['Horror'],"[62, 42, 15382]","['gothic', 'vampire']"
+7933,['Comedy'],[7867],['marx brothers']
+7935,"['Drama', 'Fantasy', 'Horror', 'Mystery']","[306, 4381]","['not available from netflix', 'ingmar bergman']"
+7938,['Drama'],"[8932, 1702, 10824, 2538, 306, 1812, 4534, 1149]",['ingmar bergman']
+7939,['Drama'],"[8932, 2538, 1582, 306, 1149]",['ingmar bergman']
+7942,"['Drama', 'Romance']","[306, 1925]",['ingmar bergman']
+7979,"['Documentary', 'Musical']","[1554, 9926]","['svens to see list', 'criterion']"
+7980,"['Action', 'Drama', 'War']","[237, 816, 10292, 4571, 605]",['world war ii']
+8016,"['Action', 'Crime', 'Drama', 'Thriller']","[2923, 907, 9926]",['svens to see list']
+8025,['Drama'],[4578],['ruffian']
+8033,"['Comedy', 'Crime', 'Romance']","[6715, 387, 10375]",['not corv lib']
+8057,['Drama'],[2960],['oscar (best supporting actor)']
+8062,"['Drama', 'Horror', 'Thriller']","[554, 3354, 54, 1023]",['serial killer']
+8070,['Drama'],[4381],['not available from netflix']
+8092,"['Drama', 'Fantasy', 'Horror', 'Sci-Fi']","[1224, 42]",['gothic']
+8125,"['Drama', 'Romance']","[4098, 669, 1382, 2538, 781, 4365, 8912, 2929, 213, 761, 4731, 4381]","['usa film registry', 'oscar (best cinematography)']"
+8153,['Drama'],"[2960, 6800]",['oscar (best supporting actor)']
+8157,"['Animation', 'Fantasy', 'Thriller']","[712, 740]",['anime']
+8189,['Comedy'],"[1176, 99, 9926]",['svens to see list']
+8208,['Drama'],"[1224, 2295, 1061, 1911]",['based on a book']
+8236,"['Drama', 'Film-Noir']",[2927],['tom']
+8253,"['Action', 'Adventure', 'Animation', 'Mystery', 'Romance']","[387, 15045, 1382, 712, 74, 459, 1134, 272, 12852, 5655, 1435, 415]",['studio ghibli']
+8257,"['Action', 'Drama', 'War']","[761, 4571, 237, 238]","['oscar (best cinematography)', 'world war ii']"
+8260,"['Comedy', 'Drama']","[587, 10494]",['seen']
+8261,['Drama'],"[64, 8932, 1382, 1702, 1065, 2538, 4746, 1582, 15055, 1553, 1554, 11134, 10966, 4670, 5055]",['robert altman']
+8266,"['Drama', 'Musical']","[7377, 1759]",['rock and roll']
+8275,['Comedy'],[348],['buster keaton']
+8341,"['Adventure', 'Crime', 'Drama']","[5281, 6308, 1224, 6800, 1554, 8927]","['literary adaptation', 'author:charles dickens']"
+8370,"['Action', 'Comedy', 'Crime', 'Drama']","[2729, 747, 1297, 12122, 6715]",['not corv lib']
+8372,"['Animation', 'Children', 'Comedy']","[7408, 605]",['adapted from:comic']
+8392,['Drama'],[1553],['robert altman']
+8397,"['Drama', 'Romance']",[6708],['hw drama']
+8403,"['Action', 'Adventure', 'Drama', 'Romance', 'War']","[7753, 11382]","['sword and sandal', 'classical studies']"
+8405,"['Drama', 'Horror']","[1925, 1382, 2538, 4746, 6988, 7468, 6800, 306, 4534, 10906, 15102]",['ingmar bergman']
+8426,"['Animation', 'Comedy', 'Drama', 'Fantasy', 'Sci-Fi']","[712, 13533]",['anime']
+8450,"['Adventure', 'Romance']","[761, 244]","['oscar (best cinematography)', 'oscar (best supporting actress)']"
+8458,['Drama'],[213],['oscar (best actress)']
+8463,['Drama'],[213],['oscar (best actress)']
+8464,['Documentary'],"[1121, 4741, 14181, 5512, 5225, 5706, 651, 5836, 7854, 6800, 2422, 13334, 186]",['food']
+8465,"['Crime', 'Drama', 'Film-Noir', 'Romance']",[2960],['oscar (best supporting actor)']
+8482,"['Drama', 'Fantasy', 'Horror']","[1224, 761, 6534, 7086]","['oscar (best cinematography)', 'afi 100 (thrills)']"
+8492,"['Drama', 'Fantasy']","[497, 9298, 8927]",['author:charles dickens']
+8505,"['Drama', 'Romance']",[93],['nudity (topless)']
+8512,['Comedy'],[1452],['mel brooks']
+8521,"['Drama', 'Horror']","[1925, 1224, 9013, 5557, 219]",['alter ego']
+8522,"['Comedy', 'Western']",[4818],['opal']
+8542,"['Comedy', 'Musical']","[6800, 4082, 7867, 380]",['marx brothers']
+8584,"['Drama', 'Film-Noir']",[761],['oscar (best cinematography)']
+8602,['Drama'],"[6499, 9926]",['svens to see list']
+8609,['Comedy'],[348],['buster keaton']
+8611,['Comedy'],[213],['oscar (best actress)']
+8617,['Drama'],[213],['oscar (best actress)']
+8631,"['Action', 'Drama']","[3, 253]",['boxing']
+8639,"['Drama', 'Thriller']",[6708],['hw drama']
+8662,"['Action', 'Drama']",[761],['oscar (best cinematography)']
+8666,"['Action', 'Crime', 'Fantasy']","[2889, 1641, 11249, 7736, 186, 2877]","['dc comics', 'dc']"
+8667,"['Drama', 'Romance']",[554],['gay']
+8675,"['Action', 'Drama', 'War']","[1761, 6715, 237]",['not corv lib']
+8711,['Comedy'],"[2889, 4082, 6715, 6716, 605]","['cary grant', 'not corv lib', 'hw classics']"
+8712,"['Comedy', 'Romance']",[2889],['cary grant']
+8714,"['Drama', 'Musical']","[2889, 102]",['cary grant']
+8734,['Comedy'],[7867],['marx brothers']
+8737,['Thriller'],[93],['nudity (topless)']
+8751,"['Crime', 'Drama', 'Film-Noir']","[7782, 9926, 1065, 2538, 2927, 8912, 662, 2295, 8891]",['tom']
+8766,"['Drama', 'Film-Noir', 'Mystery']",[2927],['tom']
+8767,"['Crime', 'Drama', 'Film-Noir', 'Thriller']",[2927],['tom']
+8773,"['Crime', 'Mystery', 'Sci-Fi', 'Thriller']","[9360, 6177]",['adapted from:book series']
+8779,"['Comedy', 'Drama']",[237],['world war ii']
+8794,['Drama'],[4578],['ruffian']
+8796,"['Comedy', 'Musical']","[13801, 348, 11382]",['buster keaton']
+8797,['Documentary'],[1554],['criterion']
+8809,"['Comedy', 'Romance']","[8269, 146, 5204, 374, 6715]",['not corv lib']
+8815,"['Drama', 'Horror', 'Thriller']","[2132, 1598, 1783]",['pointless']
+8829,"['Children', 'Drama']",[7704],['animal:dog']
+8838,"['Drama', 'Romance']","[9926, 213, 4446]",['svens to see list']
+8845,['Drama'],[9926],['svens to see list']
+8861,"['Action', 'Horror', 'Sci-Fi', 'Thriller']","[641, 386, 2155, 2315, 7407, 3280, 369, 655, 9847, 571, 93, 2623]","['adapted from:game', 'video game adaptation']"
+8864,"['Comedy', 'Drama']",[113],['baseball']
+8920,['Drama'],"[6717, 213]",['corvallis library']
+8921,"['Drama', 'Romance']","[761, 213]",['oscar (best cinematography)']
+8923,"['Drama', 'Romance']","[761, 1925]",['oscar (best cinematography)']
+8933,"['Comedy', 'Drama']",[2239],['netflix']
+8937,"['Action', 'Drama']","[5344, 8929, 1224, 10896, 8380]",['sport:american football']
+8955,"['Crime', 'Drama', 'Thriller']","[6715, 6708]","['not corv lib', 'hw drama']"
+8961,"['Action', 'Adventure', 'Animation', 'Children', 'Comedy']","[9859, 900, 1925, 901, 7, 651, 1680, 7705, 11289, 4139, 4401, 306, 6323, 5557, 569, 186, 192, 8386, 583, 74, 465, 1748, 605, 362, 752, 371]","['dinner', 'animation', 'disney animated feature']"
+8967,"['Comedy', 'Horror']",[2239],['netflix']
+8977,"['Action', 'Adventure', 'Drama', 'War']","[675, 7753, 587, 238, 9809, 11382, 2393]","['classical studies', 'sword and sandal']"
+8980,['Drama'],[9926],['svens to see list']
+8985,"['Action', 'Fantasy', 'Horror', 'Thriller']","[2912, 2622, 42, 119, 62]",['vampire']
+9000,['Documentary'],[2239],['netflix']
+9013,['Drama'],"[8362, 1553, 1554, 398]",['less than 300 ratings']
+25736,"['Drama', 'Horror', 'Sci-Fi']","[1224, 9208, 1061, 5557]",['based on a book']
+25750,"['Comedy', 'Fantasy', 'Romance']","[1382, 71, 4747, 1932, 1775, 528, 4082, 6709, 348]",['buster keaton']
+25757,"['Drama', 'Musical', 'Romance']","[4083, 6518]",['afi 100 (movie quotes)']
+25764,"['Comedy', 'Drama', 'Romance']","[348, 4381, 2903]",['buster keaton']
+25769,"['Comedy', 'Romance']","[5827, 10988, 7388, 348, 1790]",['buster keaton']
+25771,['Fantasy'],[93],['nudity (topless)']
+25773,"['Crime', 'Drama']",[6518],['afi 100 (movie quotes)']
+25777,['Comedy'],"[4082, 7867, 6717]",['marx brothers']
+25788,"['Crime', 'Drama', 'Film-Noir']","[6715, 4381, 2295]","['not available from netflix', 'not corv lib']"
+25827,"['Comedy', 'Romance']","[137, 4082, 6515]",['oscar (best directing)']
+25856,"['Drama', 'Romance']","[1224, 761, 4083, 1911]",['oscar (best cinematography)']
+25866,"['Action', 'Adventure', 'Romance']","[2538, 398, 11344, 3922, 1435]",['less than 300 ratings']
+25898,['Drama'],"[1065, 1554, 10390, 4381, 10907, 1149]",['not available from netflix']
+25923,['Drama'],"[6308, 1224, 1911, 6800, 1554, 10199, 761, 8927]",['author:charles dickens']
+25927,"['Drama', 'Film-Noir', 'Thriller']","[6800, 1023, 2927]",['tom']
+25930,"['Crime', 'Drama', 'Film-Noir', 'Thriller']",[2927],['tom']
+25943,"['Crime', 'Drama', 'Film-Noir', 'Mystery']",[2239],['netflix']
+25951,['Musical'],"[348, 6263]",['buster keaton']
+25952,"['Comedy', 'Drama']",[137],['oscar (best directing)']
+25963,"['Crime', 'Drama']","[8912, 6709, 9926]",['svens to see list']
+25993,"['Drama', 'Romance']",[9926],['svens to see list']
+26005,"['Action', 'Adventure', 'Drama']",[1554],['criterion']
+26007,"['Drama', 'War']","[2619, 1061, 398]",['less than 300 ratings']
+26055,['Drama'],"[1153, 4674, 4496, 1554, 4339, 663, 11448, 6715]",['not corv lib']
+26085,"['Adventure', 'Drama']",[6717],['corvallis library']
+26134,"['Horror', 'Mystery']",[15383],['hammer film productions']
+26139,"['Drama', 'War']",[93],['nudity (topless)']
+26152,"['Action', 'Adventure', 'Children', 'Comedy']","[1829, 7, 1641, 9547, 7408, 5557, 9109, 7736, 186, 60]","['dc comics', 'adapted from:comic', 'superhero', 'dc', 'alter ego']"
+26158,"['Comedy', 'Drama', 'War']","[1554, 595]",['nudity (rear)']
+26185,"['Horror', 'Romance', 'Thriller']",[15383],['hammer film productions']
+26199,"['Comedy', 'Drama']","[5377, 93]",['nudity (topless)']
+26241,['Drama'],[1136],['nudity (full frontal)']
+26251,['Drama'],[93],['nudity (topless)']
+26271,"['Drama', 'Musical']","[6715, 6708]","['not corv lib', 'hw drama']"
+26313,"['Comedy', 'Drama']","[1553, 253, 4670]",['robert altman']
+26318,"['Comedy', 'Drama']","[1136, 1554, 9926]","['svens to see list', 'nudity (full frontal)']"
+26375,"['Action', 'Comedy', 'Crime']","[4082, 6715, 1709]",['not corv lib']
+26386,"['Comedy', 'Thriller']","[944, 1457, 1452]",['mel brooks']
+26414,"['Comedy', 'Drama']",[93],['nudity (topless)']
+26464,"['Action', 'Crime', 'Drama']",[1136],['nudity (full frontal)']
+26465,"['Action', 'Comedy']",[93],['nudity (topless)']
+26491,"['Comedy', 'Romance', 'War']","[747, 1452, 237]",['mel brooks']
+26544,"['Comedy', 'Drama']",[910],['high school']
+26566,"['Comedy', 'Drama']","[2784, 8929, 9302]",['sport:american football']
+26662,"['Adventure', 'Animation', 'Children', 'Comedy', 'Fantasy']","[5655, 740, 712, 1513, 459, 1133, 1134, 272, 752, 4528, 6800, 465, 2742, 55, 12889, 6298, 1085]",['studio ghibli']
+26677,['Thriller'],[93],['nudity (topless)']
+26693,"['Drama', 'Fantasy', 'Horror', 'Mystery', 'Thriller']","[1224, 4413, 1061]","['author:stephen king', 'based on a book']"
+26743,"['Animation', 'Drama']",[1134],['studio ghibli']
+26776,"['Adventure', 'Animation', 'Comedy', 'Fantasy', 'Romance']","[740, 712, 12156, 74, 459, 7711, 1133, 1134, 272, 6800, 689, 5655, 15036, 415]",['studio ghibli']
+26796,"['Drama', 'Romance']",[93],['nudity (topless)']
+26803,"['Comedy', 'Drama']",[93],['nudity (topless)']
+26842,"['Action', 'Comedy', 'Drama', 'Thriller']","[14697, 5156, 686]","['kung fu', 'martial arts']"
+26865,"['Action', 'Drama']","[6401, 226, 5285, 686, 7391]",['martial arts']
+26870,['Comedy'],"[113, 55]",['baseball']
+27186,"['Action', 'Animation', 'Children', 'Comedy', 'Musical']",[2239],['netflix']
+27255,['Drama'],[2239],['netflix']
+27368,"['Adventure', 'Comedy', 'Fantasy']",[595],['nudity (rear)']
+27376,"['Action', 'Drama', 'Thriller']",[4818],['opal']
+27416,"['Comedy', 'Drama', 'Romance']","[587, 10494]",['seen']
+27513,['Drama'],[1136],['nudity (full frontal)']
+27523,"['Comedy', 'Romance']",[4381],['not available from netflix']
+27608,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']",[93],['nudity (topless)']
+27611,"['Action', 'Adventure', 'Sci-Fi']",[398],['less than 300 ratings']
+27627,"['Drama', 'Romance']","[7713, 93]",['nudity (topless)']
+27636,"['Comedy', 'Drama']",[4381],['not available from netflix']
+27706,"['Adventure', 'Children', 'Comedy', 'Fantasy']","[1504, 1061, 1382, 396, 1357, 364, 5264, 9360, 4570, 15088, 6324, 1149, 4282, 765]","['jude law', 'adapted from:book series']"
+27716,"['Comedy', 'Crime', 'Drama', 'Romance']",[2239],['netflix']
+27728,"['Action', 'Animation', 'Drama', 'Sci-Fi', 'Thriller']","[712, 80]",['anime']
+27731,"['Adventure', 'Animation', 'Children', 'Fantasy']","[740, 712, 1134, 1806, 7026]",['studio ghibli']
+27736,"['Drama', 'Romance', 'Thriller']",[1136],['nudity (full frontal)']
+27792,"['Comedy', 'Drama', 'Fantasy', 'Musical', 'Romance']",[6708],['hw drama']
+27812,"['Documentary', 'Musical']",[14687],['music documentary']
+27866,['Drama'],"[93, 2239]","['nudity (topless)', 'netflix']"
+27873,['Documentary'],[14687],['music documentary']
+27879,['Documentary'],"[2987, 14687]",['music documentary']
+30701,"['Comedy', 'Drama', 'War']","[1320, 243, 4381, 9926]","['not available from netflix', 'svens to see list']"
+30707,['Drama'],"[7682, 3, 775, 10376, 137, 399, 2960, 6800, 1426, 6297, 3611, 2717, 6176, 2341, 7462, 14510, 14511, 5948, 7869, 9279, 587, 4690, 213, 473, 8922, 1504, 1508, 4970, 14573, 8943, 883, 11123, 2804, 247, 2682, 10494]","['boxing', 'sport:boxing']"
+30712,"['Crime', 'Drama', 'Film-Noir']","[2987, 2927]",['tom']
+30848,['Drama'],"[6715, 6708]","['not corv lib', 'hw drama']"
+30850,"['Comedy', 'Drama']","[1320, 9928, 9002, 9298, 8604]","['adapted from:play', 'playwright:shakespeare']"
+31042,"['Drama', 'War']",[6715],['not corv lib']
+31148,"['Comedy', 'Drama']",[16036],['bab cinema']
+31162,"['Comedy', 'Drama']","[6715, 2196]",['not corv lib']
+31184,"['Action', 'Animation', 'Fantasy', 'Sci-Fi']","[712, 15689, 8386, 13995]",['anime']
+31193,"['Animation', 'Children', 'Fantasy']","[900, 1224, 362, 9235, 12820]","['dinner', 'disney animated feature']"
+31270,"['Drama', 'Horror', 'Sci-Fi']","[93, 14703]",['nudity (topless)']
+31408,"['Drama', 'Romance']",[93],['nudity (topless)']
+31424,"['Action', 'Horror', 'Sci-Fi', 'Thriller']","[7496, 655, 83, 7407]","['adapted from:game', 'video game adaptation']"
+31431,"['Drama', 'Horror', 'Mystery', 'Thriller']",[2132],['pointless']
+31435,"['Comedy', 'Drama']","[9928, 586, 398, 13200, 6715]",['less than 300 ratings']
+31467,"['Action', 'Drama']",[1426],['sport:boxing']
+31545,"['Crime', 'Film-Noir']",[1554],['criterion']
+31588,"['Crime', 'Drama', 'Romance']","[1065, 10907, 1149, 9926]",['svens to see list']
+31658,"['Adventure', 'Animation', 'Fantasy', 'Romance', 'Sci-Fi']","[4740, 1925, 1802, 272, 5264, 146, 5655, 10393, 412, 669, 2717, 415, 7713, 2597, 5557, 11446, 712, 459, 4941, 465, 11477, 7652, 1382, 1133, 1134, 238, 7026, 6391, 5119]",['studio ghibli']
+31687,"['Animation', 'Children']","[900, 1925, 362, 465, 4786, 9235]","['dinner', 'animation', 'disney animated feature']"
+31696,"['Action', 'Horror', 'Thriller']","[10376, 2953, 42, 7736, 7408, 472, 8925, 7230]",['dc comics']
+31770,"['Film-Noir', 'Thriller']","[1554, 2927]",['tom']
+31804,"['Action', 'Fantasy', 'Horror', 'Mystery', 'Sci-Fi', 'Thriller']","[892, 7711, 62, 119]",['vampire']
+32019,"['Comedy', 'Crime', 'Musical']",[2399],['uma thurman']
+32025,"['Drama', 'Thriller']","[13825, 8131, 940, 398, 2809, 1691]",['less than 300 ratings']
+32211,"['Action', 'Crime', 'Drama', 'Thriller']",[595],['nudity (rear)']
+32261,"['Drama', 'War']",[6715],['not corv lib']
+32289,"['Children', 'Comedy', 'Drama']",[2132],['pointless']
+32361,['Drama'],[2960],['oscar (best supporting actor)']
+32460,"['Action', 'Comedy', 'Crime', 'Drama']","[93, 4381]","['nudity (topless)', 'not available from netflix']"
+32646,"['Documentary', 'Musical']","[887, 1759]",['rock and roll']
+32674,['Drama'],[6308],['literary adaptation']
+32882,['Comedy'],"[7867, 2239]",['marx brothers']
+32892,"['Drama', 'War']","[4578, 1162, 1554, 1140, 1149]",['ruffian']
+33124,"['Drama', 'War']",[237],['world war ii']
+33138,"['Adventure', 'Comedy', 'Drama']","[6715, 2671, 2239]",['not corv lib']
+33164,"['Horror', 'Thriller']",[2132],['pointless']
+33312,"['Comedy', 'Musical']","[4426, 7867]",['marx brothers']
+33451,"['Comedy', 'Drama']","[4381, 398]",['less than 300 ratings']
+33454,"['Comedy', 'Drama']",[93],['nudity (topless)']
+33493,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","[4616, 651, 12, 1551, 6800, 145, 146, 5035, 946, 6324, 186, 8386, 10877, 583, 74, 459, 2941, 1614, 6094, 14046, 352, 2912, 238, 366, 13169, 1783, 506, 125]",['noise in space']
+33499,"['Comedy', 'Romance']",[2239],['netflix']
+33558,"['Adventure', 'Drama']",[4818],['opal']
+33644,"['Horror', 'Thriller']","[2132, 1783]",['pointless']
+33646,"['Comedy', 'Drama']","[9536, 8929, 7, 9096, 10225, 916, 6324, 4861]",['sport:american football']
+33660,"['Drama', 'Romance']","[1344, 1121, 3, 196, 2659, 1094, 2371, 5098, 4970, 492, 12816, 6800, 1426, 820, 1239, 633]","['boxing', 'sport:boxing']"
+33794,"['Action', 'Crime']","[3586, 135, 4491, 269, 147, 15894, 3736, 2341, 6323, 5557, 2998, 7736, 11193, 186, 441, 4669, 1094, 583, 74, 9547, 716, 11348, 981, 1108, 90, 1121, 1382, 7782, 1641, 2538, 11372, 7408, 113, 501, 1783, 2809, 506, 3707]","['superhero', 'franchise', 'dc', 'adapted from:comic']"
+33817,"['Drama', 'Romance']","[143, 375]",['lesbian']
+33838,['Documentary'],[6715],['not corv lib']
+34002,['Comedy'],[7867],['marx brothers']
+34018,"['Comedy', 'Musical']","[6800, 7867]",['marx brothers']
+34164,"['Comedy', 'Drama']","[11249, 374, 55, 473, 2239]","['dark comedy', 'likeilike top pick']"
+34189,['Thriller'],[5097],['unintentional comedy']
+34198,"['Comedy', 'Romance']","[1136, 2239]","['netflix', 'nudity (full frontal)']"
+34321,"['Children', 'Comedy']","[113, 747, 11630]",['baseball']
+34326,['Drama'],[2239],['netflix']
+34334,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","[5097, 195, 8477]",['unintentional comedy']
+34499,['Drama'],[93],['nudity (topless)']
+34767,"['Comedy', 'Documentary', 'Romance']","[2132, 4158]",['pointless']
+36056,['Western'],"[9507, 398]",['less than 300 ratings']
+36523,['Comedy'],[2239],['netflix']
+36525,"['Comedy', 'Romance']","[603, 958, 1222, 10278]",['san francisco']
+36553,"['Action', 'Drama', 'Musical', 'War']",[244],['oscar (best supporting actress)']
+37211,"['Comedy', 'Musical', 'Western']","[7867, 2239]",['marx brothers']
+37287,['Drama'],[1554],['criterion']
+37380,"['Action', 'Horror', 'Sci-Fi']","[899, 200, 9226, 7407, 655, 6324, 8760, 9885, 1023]",['video game adaptation']
+37545,['Drama'],[6308],['literary adaptation']
+37731,"['Action', 'Crime', 'Drama']","[6715, 12820, 902, 2959]",['not corv lib']
+37733,"['Action', 'Crime', 'Drama', 'Thriller']","[161, 1925, 2693, 1094, 1136, 6800, 7828, 1785, 1085]",['based on a comic']
+37736,['Drama'],"[1224, 605, 8927]",['author:charles dickens']
+38198,['Documentary'],"[16036, 2239]",['bab cinema']
+38824,['Drama'],[1061],['based on a book']
+39715,['Comedy'],"[1832, 1450, 595, 4502, 93]",['nudity (topless)']
+39886,['Drama'],"[11557, 265, 629, 3738, 510]","['ensemble cast', 'multiple storylines']"
+40337,"['Comedy', 'Drama']",[4818],['opal']
+40412,"['Crime', 'Thriller']","[6800, 595, 2735]",['nudity (rear)']
+40833,['Drama'],[1554],['criterion']
+40851,"['Action', 'Adventure', 'Children', 'Fantasy']","[145, 12140, 125, 438]",['sequel']
+40952,['Drama'],[6708],['hw drama']
+41627,"['Action', 'Drama']",[1554],['criterion']
+42094,"['Drama', 'Horror', 'Mystery']","[1034, 16036]",['bab cinema']
+42197,"['Comedy', 'Drama', 'Film-Noir']","[6715, 93]","['nudity (topless)', 'not corv lib']"
+42602,['Documentary'],[16036],['bab cinema']
+42721,"['Action', 'Fantasy', 'Horror']","[7496, 372, 93, 655]",['video game adaptation']
+42736,"['Comedy', 'Romance']",[375],['lesbian']
+43708,"['Comedy', 'Documentary', 'Musical']","[328, 6715, 308, 871]",['not corv lib']
+43744,"['Comedy', 'Drama', 'Romance']",[375],['lesbian']
+43914,['Drama'],"[1316, 4685, 2132]",['pointless']
+44193,"['Comedy', 'Romance']","[1560, 651]",['seen more than once']
+44301,"['Crime', 'Drama', 'Film-Noir']",[16036],['bab cinema']
+44399,"['Adventure', 'Children', 'Comedy', 'Fantasy']","[1472, 25, 7704, 5558]",['robert downey jr']
+44587,"['Documentary', 'Drama']",[1554],['criterion']
+44633,['Documentary'],"[2239, 1209, 16036, 14687]","['bab cinema', 'music documentary']"
+44849,"['Action', 'Animation', 'Film-Noir', 'Sci-Fi', 'Thriller']",[16036],['bab cinema']
+45081,"['Fantasy', 'Horror', 'Thriller']","[2337, 10439, 655, 7828, 1853, 2206, 7711]",['video game adaptation']
+45517,"['Animation', 'Children', 'Comedy', 'Fantasy']","[1120, 900, 1925, 1128, 2889, 4938, 362, 4939, 1867, 907, 1711, 5780, 7705, 8922, 60]","['dinner', 'disney animated feature']"
+45664,['Drama'],[93],['nudity (topless)']
+46231,['Drama'],[93],['nudity (topless)']
+46335,"['Action', 'Crime', 'Drama', 'Thriller']","[2912, 907, 146, 5138, 2239]",['crappy sequel']
+46337,"['Animation', 'Children', 'Comedy']",[7408],['adapted from:comic']
+46347,['Documentary'],[14687],['music documentary']
+46530,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","[7744, 1121, 7713, 195, 2456, 6633, 6699, 651, 6765, 7408, 6800, 5557, 7541, 1783, 7736]","['alter ego', 'franchise', 'adapted from:comic']"
+46572,"['Drama', 'Thriller']","[595, 93]","['nudity (topless)', 'nudity (rear)']"
+46664,"['Drama', 'Mystery', 'Thriller']",[1554],['criterion']
+46772,['Comedy'],"[910, 374]","['dark comedy', 'high school']"
+46803,['Drama'],[1554],['criterion']
+46839,"['Drama', 'Romance']",[16036],['bab cinema']
+47202,"['Drama', 'Romance']",[93],['nudity (topless)']
+47446,"['Drama', 'Mystery', 'Thriller']",[1136],['nudity (full frontal)']
+47640,['Comedy'],"[93, 1870]",['nudity (topless)']
+47778,['Drama'],[6717],['corvallis library']
+47805,"['Adventure', 'Children']",[7704],['animal:dog']
+47830,"['Crime', 'Drama', 'Mystery', 'Thriller']",[93],['nudity (topless)']
+47937,"['Comedy', 'Horror', 'Thriller']",[93],['nudity (topless)']
+47940,['Drama'],"[93, 2239]","['nudity (topless)', 'netflix']"
+47978,['Drama'],"[1065, 93]",['nudity (topless)']
+48142,"['Crime', 'Drama', 'Mystery', 'Thriller']","[729, 595, 93, 6205]",['nudity (topless)']
+48161,['Drama'],"[496, 8929, 6356, 1121]",['sport:american football']
+48214,['Drama'],"[7888, 16036]",['bab cinema']
+48262,['Documentary'],"[1344, 16036, 6800, 5786, 603]","['bab cinema', 'san francisco']"
+48326,['Drama'],"[6800, 765]",['jude law']
+48584,"['Comedy', 'Drama']",[93],['nudity (topless)']
+48682,"['Comedy', 'Drama']","[4818, 93]","['nudity (topless)', 'opal']"
+48741,['Documentary'],"[1730, 11371, 16036, 15437]",['bab cinema']
+48856,"['Crime', 'Drama']",[93],['nudity (topless)']
+49220,['Comedy'],"[6749, 1685, 2239]",['netflix']
+49263,"['Comedy', 'Documentary']",[93],['nudity (topless)']
+49272,"['Action', 'Adventure', 'Thriller']","[2820, 9353, 907, 525, 143, 657, 794, 4251, 2717, 7711, 5536, 11171, 6308, 5035, 9015, 1853, 11326, 4287, 1866, 74, 8276, 9816, 1121, 6631, 1515, 11372, 9580, 110, 7408, 11121, 1783, 253, 634, 5373, 1023]","['murder', 'james bond', 'assassin', '007 (series)', 'killer as protagonist']"
+49396,"['Adventure', 'Comedy', 'Musical']","[4904, 1759]",['rock and roll']
+49422,"['Action', 'Adventure', 'Comedy']",[2239],['netflix']
+49526,['Comedy'],[93],['nudity (topless)']
+49528,"['Adventure', 'Drama', 'Horror', 'Mystery', 'Thriller']",[93],['nudity (topless)']
+49666,"['Drama', 'Fantasy', 'Romance']","[1472, 1136]","['nudity (full frontal)', 'robert downey jr']"
+49793,['Drama'],"[8929, 6717, 9397]",['sport:american football']
+50149,"['Animation', 'Children', 'Comedy']",[6717],['corvallis library']
+50162,"['Action', 'Children', 'Fantasy']",[6717],['corvallis library']
+50229,"['Comedy', 'Musical', 'Romance']","[9926, 6822]",['svens to see list']
+50259,['Drama'],"[9926, 398]",['less than 300 ratings']
+50347,"['Crime', 'Drama', 'Romance']","[1136, 14579, 69, 1630]",['nudity (full frontal)']
+50447,"['Drama', 'Mystery', 'Thriller']","[1136, 1459, 1023]",['nudity (full frontal)']
+50477,['Drama'],[1554],['criterion']
+50619,"['Drama', 'Fantasy']",[1554],['criterion']
+50858,"['Crime', 'Drama', 'Thriller']",[93],['nudity (topless)']
+50912,['Romance'],"[16036, 1925]",['bab cinema']
+51014,"['Drama', 'Horror', 'Sci-Fi', 'Thriller']","[1224, 9208, 1061, 5557]",['based on a book']
+51077,"['Action', 'Fantasy', 'Thriller']","[418, 2693, 7408, 49, 50]",['based on a comic']
+51094,"['Comedy', 'Drama', 'Romance']",[375],['lesbian']
+51127,['Documentary'],[14687],['music documentary']
+51174,"['Drama', 'Film-Noir']","[1333, 93]",['nudity (topless)']
+51277,"['Action', 'Adventure']","[398, 5156, 686]","['kung fu', 'martial arts', 'less than 300 ratings']"
+51304,"['Crime', 'Drama', 'Thriller']","[93, 54]","['nudity (topless)', 'serial killer']"
+51471,"['Drama', 'Romance']","[2239, 8261, 1482, 209, 11249, 5055]",['likeilike top pick']
+51678,['Drama'],"[304, 6800, 9002, 9298]","['adapted from:play', 'playwright:shakespeare']"
+51991,['Drama'],[4818],['opal']
+52005,"['Crime', 'Drama', 'Mystery', 'Thriller']",[93],['nudity (topless)']
+52042,"['Drama', 'Thriller', 'War']","[6800, 93]",['nudity (topless)']
+52227,"['Adventure', 'Comedy', 'Romance']",[93],['nudity (topless)']
+52287,"['Action', 'Adventure', 'Animation', 'Children', 'Comedy', 'Sci-Fi']","[1128, 6717]",['corvallis library']
+52448,['Drama'],"[1552, 93]",['nudity (topless)']
+52545,"['Comedy', 'Romance']","[2958, 375]",['lesbian']
+52561,"['Drama', 'Romance']",[93],['nudity (topless)']
+52644,"['Horror', 'Thriller']",[93],['nudity (topless)']
+52722,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","[2693, 523, 1043, 1940, 1177, 7711, 46, 5557, 56, 186, 6717, 7229, 706, 452, 458, 2381, 83, 1748, 985, 1121, 10725, 7408, 1785, 11516, 125, 1023]","['based on a comic', 'adapted from:comic']"
+52767,['Documentary'],[2239],['netflix']
+52950,"['Action', 'Fantasy', 'Horror', 'Thriller']","[595, 125]",['sequel']
+52952,['Drama'],"[2678, 398]",['less than 300 ratings']
+53121,"['Adventure', 'Animation', 'Children', 'Comedy', 'Fantasy']","[1715, 125, 2918]",['sequel']
+53127,"['Drama', 'Horror', 'Thriller']","[1136, 6800, 7711]",['nudity (full frontal)']
+53189,['Comedy'],[93],['nudity (topless)']
+53435,"['Crime', 'Horror', 'Thriller']","[93, 2239]","['nudity (topless)', 'netflix']"
+53464,"['Action', 'Adventure', 'Fantasy', 'Sci-Fi']","[2693, 6699, 7408, 1940, 1748, 6717, 7711]",['based on a comic']
+53769,"['Comedy', 'Romance']",[2239],['netflix']
+53887,"['Adventure', 'Drama', 'Fantasy']","[6800, 93]",['nudity (topless)']
+53921,"['Drama', 'Thriller']",[6717],['corvallis library']
+53953,"['Drama', 'Horror', 'Thriller']","[1061, 2566, 1802, 2712, 4413]",['author:stephen king']
+53956,"['Comedy', 'Drama']","[210, 2635, 16036, 2239]",['bab cinema']
+54190,"['Drama', 'Musical', 'Romance', 'War']","[1759, 6717, 398, 871]","['less than 300 ratings', 'rock and roll']"
+54196,"['Adventure', 'Fantasy', 'Mystery']","[93, 2239]","['nudity (topless)', 'netflix']"
+54274,"['Crime', 'Drama', 'Thriller']","[54, 1023]",['serial killer']
+54276,"['Comedy', 'Drama', 'Romance']",[2239],['netflix']
+54278,"['Action', 'Adventure', 'Children', 'Comedy', 'Fantasy', 'Sci-Fi']","[2239, 6717, 583]",['corvallis library']
+54331,"['Comedy', 'Crime', 'Thriller']",[4818],['opal']
+54372,"['Crime', 'Drama', 'Mystery', 'Thriller']","[1136, 2924]","['toplist08', 'nudity (full frontal)']"
+54510,"['Drama', 'Thriller']",[93],['nudity (topless)']
+54648,"['Action', 'Comedy', 'Crime', 'Thriller']",[2239],['netflix']
+54691,"['Drama', 'Romance']","[1224, 1061, 4279]",['based on a book']
+54732,['Comedy'],[2239],['netflix']
+54745,"['Comedy', 'Drama']","[1328, 1358, 398, 2239]",['less than 300 ratings']
+54768,"['Children', 'Comedy']",[2239],['netflix']
+54771,"['Action', 'Drama', 'Horror', 'Sci-Fi', 'Thriller']",[2239],['netflix']
+54796,"['Comedy', 'Drama', 'Romance']","[5193, 93]",['nudity (topless)']
+54958,"['Crime', 'Drama', 'Thriller']",[93],['nudity (topless)']
+55063,"['Documentary', 'Fantasy']","[16036, 2924, 2239]","['bab cinema', 'toplist08']"
+55069,['Drama'],"[5764, 1413, 2925, 1136, 6715]",['not corv lib']
+55080,"['Crime', 'Drama', 'Thriller']",[2239],['netflix']
+55094,"['Drama', 'Mystery']","[2684, 93, 1023]",['nudity (topless)']
+55178,['Drama'],[4818],['opal']
+55245,"['Comedy', 'Romance']",[93],['nudity (topless)']
+55255,"['Drama', 'Romance']",[1136],['nudity (full frontal)']
+55257,"['Action', 'Comedy', 'Horror', 'Thriller']","[93, 655]","['nudity (topless)', 'video game adaptation']"
+55272,"['Crime', 'Drama']",[69],['drugs']
+55274,['Drama'],[4818],['opal']
+55286,"['Drama', 'Romance']","[625, 6715, 1401]",['not corv lib']
+55498,"['Adventure', 'Drama', 'Romance']",[1136],['nudity (full frontal)']
+55726,['Drama'],"[16036, 2239]",['bab cinema']
+55768,"['Animation', 'Comedy']","[2136, 1715, 6717]",['corvallis library']
+56028,['Drama'],[93],['nudity (topless)']
+56060,"['Comedy', 'Drama', 'Romance', 'War']","[4817, 93]",['nudity (topless)']
+56145,"['Drama', 'Horror', 'Sci-Fi', 'Thriller']","[1224, 4755, 4413, 15437]",['author:stephen king']
+56274,"['Comedy', 'Drama']",[93],['nudity (topless)']
+56607,['Drama'],"[6880, 1061, 1224, 587, 2925, 7186, 1364, 11092, 1368, 1023]",['based on a book']
+56719,['Drama'],[2239],['netflix']
+56748,"['Comedy', 'Drama']",[93],['nudity (topless)']
+57243,"['Comedy', 'Drama']",[4818],['opal']
+57326,"['Action', 'Adventure', 'Fantasy']","[715, 77, 655]",['video game adaptation']
+57504,"['Animation', 'Comedy', 'Drama', 'Romance', 'Sci-Fi']",[2239],['netflix']
+57526,"['Crime', 'Thriller']",[54],['serial killer']
+57550,['Drama'],[9926],['svens to see list']
+57640,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']","[2693, 1023, 9068, 7408, 9810, 1940, 9334, 11449, 699, 1791]",['based on a comic']
+57792,['Comedy'],[4818],['opal']
+57910,"['Comedy', 'Horror']",[93],['nudity (topless)']
+58105,"['Adventure', 'Children', 'Drama', 'Fantasy']","[16036, 1061]",['bab cinema']
+58154,"['Drama', 'Romance']","[2260, 1061, 10276]",['based on a book']
+58191,['Documentary'],"[6548, 794, 6715, 2924]","['not corv lib', 'toplist08']"
+58297,"['Action', 'Drama', 'Sci-Fi', 'Thriller']","[5097, 6001]",['unintentional comedy']
+58303,"['Crime', 'Drama', 'War']","[16036, 1061, 633, 93, 11321]",['bab cinema']
+58306,"['Drama', 'Romance', 'War']","[4818, 16036]","['bab cinema', 'opal']"
+58309,['Documentary'],[16036],['bab cinema']
+58332,"['Fantasy', 'Horror', 'Thriller']",[93],['nudity (topless)']
+58334,"['Drama', 'Romance']",[93],['nudity (topless)']
+58347,"['Children', 'Comedy', 'Fantasy', 'Romance']",[4818],['opal']
+58351,['Drama'],"[16036, 2239]",['bab cinema']
+58367,['Drama'],[93],['nudity (topless)']
+58492,['Drama'],"[4818, 610]",['opal']
+58706,"['Adventure', 'Drama']",[4818],['opal']
+58783,"['Drama', 'Romance', 'Sci-Fi']",[93],['nudity (topless)']
+58806,"['Comedy', 'Drama', 'Romance']","[4818, 1517]",['opal']
+58839,"['Comedy', 'Drama', 'Romance']",[8929],['sport:american football']
+58879,"['Documentary', 'IMAX', 'Musical']",[2924],['toplist08']
+59022,"['Adventure', 'Comedy']",[93],['nudity (topless)']
+59026,['Comedy'],"[1176, 1061, 93]",['nudity (topless)']
+59065,"['Crime', 'Drama']",[93],['nudity (topless)']
+59103,"['Action', 'Adventure', 'Comedy', 'Fantasy']",[5156],['kung fu']
+59105,['Documentary'],[1136],['nudity (full frontal)']
+59256,"['Action', 'Drama', 'Thriller']","[93, 5543]",['nudity (topless)']
+59290,['Drama'],[1136],['nudity (full frontal)']
+59336,"['Action', 'Drama']",[2924],['toplist08']
+59362,"['Crime', 'Thriller']",[93],['nudity (topless)']
+59478,['Documentary'],[16036],['bab cinema']
+59519,['Drama'],"[93, 2239]","['nudity (topless)', 'netflix']"
+59604,"['Crime', 'Drama', 'Horror', 'Thriller']",[93],['nudity (topless)']
+59607,['Documentary'],[5512],['food']
+59729,"['Crime', 'Drama']",[93],['nudity (topless)']
+59738,"['Horror', 'Mystery', 'Thriller']",[93],['nudity (topless)']
+59834,"['Adventure', 'Western']",[93],['nudity (topless)']
+59915,"['Horror', 'Thriller']",[93],['nudity (topless)']
+60044,['Comedy'],[93],['nudity (topless)']
+60137,['Documentary'],[16036],['bab cinema']
+60147,"['Drama', 'Mystery']",[2239],['netflix']
+60295,['Documentary'],[2239],['netflix']
+60333,['Documentary'],"[7050, 2924]",['toplist08']
+60363,"['Comedy', 'Horror']","[595, 93]","['nudity (topless)', 'nudity (rear)']"
+60393,['Drama'],[93],['nudity (topless)']
+60411,"['Comedy', 'Drama']",[1554],['criterion']
+60418,"['Comedy', 'Drama']",[4818],['opal']
+60421,['Drama'],"[1224, 9809, 1061]",['based on a book']
+60530,['Drama'],[1136],['nudity (full frontal)']
+60566,"['Crime', 'Drama', 'Thriller']",[93],['nudity (topless)']
+60688,"['Action', 'Drama', 'Western']",[93],['nudity (topless)']
+60745,"['Crime', 'Drama', 'Thriller']",[1554],['criterion']
+60753,"['Action', 'Crime', 'Drama']","[172, 93]",['nudity (topless)']
+60763,['Documentary'],[2239],['netflix']
+60832,"['Crime', 'Horror', 'Thriller']",[93],['nudity (topless)']
+60943,['Drama'],"[681, 692, 2924]",['toplist08']
+61024,"['Action', 'Comedy', 'Crime', 'Thriller']","[1400, 11449, 2924, 6548]",['toplist08']
+61073,"['Action', 'Drama', 'Thriller']","[1136, 2703]",['nudity (full frontal)']
+61075,"['Drama', 'Romance']","[2924, 93]","['nudity (topless)', 'toplist08']"
+61236,"['Animation', 'Documentary', 'War']",[2924],['toplist08']
+61240,"['Drama', 'Horror', 'Romance']","[2924, 398, 753, 54, 62]",['less than 300 ratings']
+61262,"['Horror', 'Thriller']","[11449, 93]",['nudity (topless)']
+61279,['Drama'],[1554],['criterion']
+61350,"['Action', 'Adventure', 'Sci-Fi', 'Thriller']","[1061, 366]",['based on a book']
+61354,['Comedy'],[595],['nudity (rear)']
+61357,['Documentary'],"[4817, 2924]",['toplist08']
+61473,"['Drama', 'War']",[93],['nudity (topless)']
+61646,['Drama'],"[2136, 93, 4294]",['nudity (topless)']
+61729,"['Comedy', 'Romance']","[2924, 845]",['toplist08']
+61970,['Sci-Fi'],[93],['nudity (topless)']
+62049,"['Drama', 'Sci-Fi']","[1061, 1224, 2295, 24, 4381]","['not available from netflix', 'based on a book']"
+62250,"['Crime', 'Drama']",[2924],['toplist08']
+62394,"['Action', 'Crime', 'Drama', 'Thriller']","[1023, 7407, 2623]",['adapted from:game']
+62511,"['Comedy', 'Drama']","[4817, 2924, 2239]",['toplist08']
+62801,"['Action', 'Drama']",[398],['less than 300 ratings']
+63062,"['Crime', 'Drama', 'Mystery']","[4817, 859, 2924]",['toplist08']
+63121,"['Drama', 'Romance']","[1224, 1061, 8927]","['author:charles dickens', 'based on a book']"
+63446,"['Comedy', 'Drama']",[2924],['toplist08']
+63808,['Drama'],[2924],['toplist08']
+63876,['Drama'],"[8993, 554, 2924, 689, 499, 9530, 603]",['san francisco']
+64229,"['Drama', 'Musical']",[2924],['toplist08']
+64575,"['Drama', 'Mystery']",[2924],['toplist08']
+64620,['Drama'],[2924],['toplist08']
+64622,"['Drama', 'Romance', 'Thriller', 'War']",[2924],['toplist08']
+64701,"['Drama', 'Mystery']","[952, 2924]",['toplist08']
+64993,"['Animation', 'Drama', 'Romance']","[712, 473, 740, 687]",['anime']
+65006,"['Mystery', 'Thriller']",[595],['nudity (rear)']
+65130,"['Drama', 'Romance']",[2924],['toplist08']
