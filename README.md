@@ -25,3 +25,16 @@
     - BertTopic Transformation Model
     - NLTK
     - SpellChecker
+
+### Applications | MultipleTags-based Recommendation System
+  - Healthcare
+  - Finance
+  - Education
+  - Fire-forest Management
+    etc.
+  
+### Need more Information or have Suggestions?
+Reach out to us-
+  - [Vaishnavi Shankar Devadig](https://www.linkedin.com/in/vaishnavi-shankar-devadig/)
+  - [Bandhavi Parvathaneni](https://www.linkedin.com/in/bandhavip/)
+  - [Abhishek Jaiswal](https://www.linkedin.com/in/jabhij/)
