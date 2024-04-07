@@ -1,4 +1,5 @@
-## HoodZ 
+# HoodZ 
+  (One stop solution for upcoming students)
 
 ### Problem Statement  
   - Getting the best neighborhood for upcoming students in Chicago based on a data-driven  multiple-tags based recommendation system (RecSys), where tags are context-aware.
