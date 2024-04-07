@@ -1,5 +1,5 @@
 # HoodZ 
-  (One stop solution for upcoming students)
+  (One-stop solution for upcoming students)
 
 ### Problem Statement  
   - Getting the best neighborhood for upcoming students in Chicago based on a data-driven  multiple-tags based recommendation system (RecSys), where tags are context-aware.
@@ -25,6 +25,11 @@
     - BertTopic Transformation Model
     - NLTK
     - SpellChecker
+    - Pandas
+   - Front & Back-end
+     - Python
+     - HTML, CSS
+     - JS, JQuery
 
 ### Applications | MultipleTags-based Recommendation System
   - Healthcare
