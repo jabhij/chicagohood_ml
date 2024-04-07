@@ -25,7 +25,7 @@ Screen Recording: https://drive.google.com/file/d/1Uz6mS6em7Eh2p0aGB43obt34L1ySe
     - TRAL
   - Libraries
     - NetworkX
-    - BertTopic Transformation Model
+    - BertTopic Transformer Model
     - NLTK
     - SpellChecker
     - Pandas
