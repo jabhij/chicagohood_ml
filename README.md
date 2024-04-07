@@ -14,6 +14,9 @@
   #### Step 2 - Tag the Hood
   ![WhatsApp Image 2024-04-07 at 10 26 13](https://github.com/jabhij/chicagohood_ml/assets/7325312/4e1d0907-88aa-476b-8270-c457ce70663e)
 
+
+Screen Recording: https://drive.google.com/file/d/1Uz6mS6em7Eh2p0aGB43obt34L1ySeSZF/view?usp=sharing
+
 ### Tech Stack
   - Approaches
     - Natural Language Processing
